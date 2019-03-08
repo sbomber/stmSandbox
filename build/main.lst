@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -35,44 +35,44 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
    6:Core/Src/main.c ****   ******************************************************************************
    7:Core/Src/main.c ****   * This notice applies to any and all portions of this file
    8:Core/Src/main.c ****   * that are not between comment pairs USER CODE BEGIN and
-   9:Core/Src/main.c ****   * USER CODE END. Other portions of this file, whether 
+   9:Core/Src/main.c ****   * USER CODE END. Other portions of this file, whether
   10:Core/Src/main.c ****   * inserted by the user or by software development tools
   11:Core/Src/main.c ****   * are owned by their respective copyright owners.
   12:Core/Src/main.c ****   *
-  13:Core/Src/main.c ****   * Copyright (c) 2019 STMicroelectronics International N.V. 
+  13:Core/Src/main.c ****   * Copyright (c) 2019 STMicroelectronics International N.V.
   14:Core/Src/main.c ****   * All rights reserved.
   15:Core/Src/main.c ****   *
-  16:Core/Src/main.c ****   * Redistribution and use in source and binary forms, with or without 
+  16:Core/Src/main.c ****   * Redistribution and use in source and binary forms, with or without
   17:Core/Src/main.c ****   * modification, are permitted, provided that the following conditions are met:
   18:Core/Src/main.c ****   *
-  19:Core/Src/main.c ****   * 1. Redistribution of source code must retain the above copyright notice, 
+  19:Core/Src/main.c ****   * 1. Redistribution of source code must retain the above copyright notice,
   20:Core/Src/main.c ****   *    this list of conditions and the following disclaimer.
   21:Core/Src/main.c ****   * 2. Redistributions in binary form must reproduce the above copyright notice,
   22:Core/Src/main.c ****   *    this list of conditions and the following disclaimer in the documentation
   23:Core/Src/main.c ****   *    and/or other materials provided with the distribution.
-  24:Core/Src/main.c ****   * 3. Neither the name of STMicroelectronics nor the names of other 
-  25:Core/Src/main.c ****   *    contributors to this software may be used to endorse or promote products 
+  24:Core/Src/main.c ****   * 3. Neither the name of STMicroelectronics nor the names of other
+  25:Core/Src/main.c ****   *    contributors to this software may be used to endorse or promote products
   26:Core/Src/main.c ****   *    derived from this software without specific written permission.
-  27:Core/Src/main.c ****   * 4. This software, including modifications and/or derivative works of this 
+  27:Core/Src/main.c ****   * 4. This software, including modifications and/or derivative works of this
   28:Core/Src/main.c ****   *    software, must execute solely and exclusively on microcontroller or
   29:Core/Src/main.c ****   *    microprocessor devices manufactured by or for STMicroelectronics.
-  30:Core/Src/main.c ****   * 5. Redistribution and use of this software other than as permitted under 
-  31:Core/Src/main.c ****   *    this license is void and will automatically terminate your rights under 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 2
+  30:Core/Src/main.c ****   * 5. Redistribution and use of this software other than as permitted under
+  31:Core/Src/main.c ****   *    this license is void and will automatically terminate your rights under
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 2
 
 
-  32:Core/Src/main.c ****   *    this license. 
+  32:Core/Src/main.c ****   *    this license.
   33:Core/Src/main.c ****   *
-  34:Core/Src/main.c ****   * THIS SOFTWARE IS PROVIDED BY STMICROELECTRONICS AND CONTRIBUTORS "AS IS" 
-  35:Core/Src/main.c ****   * AND ANY EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING, BUT NOT 
-  36:Core/Src/main.c ****   * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+  34:Core/Src/main.c ****   * THIS SOFTWARE IS PROVIDED BY STMICROELECTRONICS AND CONTRIBUTORS "AS IS"
+  35:Core/Src/main.c ****   * AND ANY EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING, BUT NOT
+  36:Core/Src/main.c ****   * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
   37:Core/Src/main.c ****   * PARTICULAR PURPOSE AND NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY
-  38:Core/Src/main.c ****   * RIGHTS ARE DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW. IN NO EVENT 
+  38:Core/Src/main.c ****   * RIGHTS ARE DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW. IN NO EVENT
   39:Core/Src/main.c ****   * SHALL STMICROELECTRONICS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
   40:Core/Src/main.c ****   * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-  41:Core/Src/main.c ****   * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, 
-  42:Core/Src/main.c ****   * OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
-  43:Core/Src/main.c ****   * LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+  41:Core/Src/main.c ****   * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
+  42:Core/Src/main.c ****   * OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+  43:Core/Src/main.c ****   * LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
   44:Core/Src/main.c ****   * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
   45:Core/Src/main.c ****   * EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   46:Core/Src/main.c ****   *
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
   86:Core/Src/main.c **** 
   87:Core/Src/main.c **** osThreadId defaultTaskHandle;
   88:Core/Src/main.c **** /* USER CODE BEGIN PV */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 3
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 3
 
 
   89:Core/Src/main.c **** 
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  143:Core/Src/main.c ****   MX_SPI2_Init();
  144:Core/Src/main.c ****   MX_SPI3_Init();
  145:Core/Src/main.c ****   MX_SPI4_Init();
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 4
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 4
 
 
  146:Core/Src/main.c ****   MX_SPI5_Init();
@@ -213,11 +213,11 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  175:Core/Src/main.c ****   /* USER CODE BEGIN RTOS_QUEUES */
  176:Core/Src/main.c ****   /* add queues, ... */
  177:Core/Src/main.c ****   /* USER CODE END RTOS_QUEUES */
- 178:Core/Src/main.c ****  
+ 178:Core/Src/main.c **** 
  179:Core/Src/main.c **** 
  180:Core/Src/main.c ****   /* Start scheduler */
  181:Core/Src/main.c ****   osKernelStart();
- 182:Core/Src/main.c ****   
+ 182:Core/Src/main.c **** 
  183:Core/Src/main.c ****   /* We should never get here as control is now taken by the scheduler */
  184:Core/Src/main.c **** 
  185:Core/Src/main.c ****   /* Infinite loop */
@@ -238,16 +238,16 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  200:Core/Src/main.c **** void SystemClock_Config(void)
  201:Core/Src/main.c **** {
  202:Core/Src/main.c ****   RCC_OscInitTypeDef RCC_OscInitStruct = {0};
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 5
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 5
 
 
  203:Core/Src/main.c ****   RCC_ClkInitTypeDef RCC_ClkInitStruct = {0};
  204:Core/Src/main.c **** 
- 205:Core/Src/main.c ****   /**Configure the main internal regulator output voltage 
+ 205:Core/Src/main.c ****   /**Configure the main internal regulator output voltage
  206:Core/Src/main.c ****   */
  207:Core/Src/main.c ****   __HAL_RCC_PWR_CLK_ENABLE();
  208:Core/Src/main.c ****   __HAL_PWR_VOLTAGESCALING_CONFIG(PWR_REGULATOR_VOLTAGE_SCALE3);
- 209:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks 
+ 209:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks
  210:Core/Src/main.c ****   */
  211:Core/Src/main.c ****   RCC_OscInitStruct.OscillatorType = RCC_OSCILLATORTYPE_HSI;
  212:Core/Src/main.c ****   RCC_OscInitStruct.HSIState = RCC_HSI_ON;
@@ -262,7 +262,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  221:Core/Src/main.c ****   {
  222:Core/Src/main.c ****     Error_Handler();
  223:Core/Src/main.c ****   }
- 224:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks 
+ 224:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks
  225:Core/Src/main.c ****   */
  226:Core/Src/main.c ****   RCC_ClkInitStruct.ClockType = RCC_CLOCKTYPE_HCLK|RCC_CLOCKTYPE_SYSCLK
  227:Core/Src/main.c ****                               |RCC_CLOCKTYPE_PCLK1|RCC_CLOCKTYPE_PCLK2;
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  257:Core/Src/main.c ****     Error_Handler();
  258:Core/Src/main.c ****   }
  259:Core/Src/main.c ****   /* USER CODE BEGIN CRC_Init 2 */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 6
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 6
 
 
  260:Core/Src/main.c **** 
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  314:Core/Src/main.c ****   hspi1.Init.BaudRatePrescaler = SPI_BAUDRATEPRESCALER_2;
  315:Core/Src/main.c ****   hspi1.Init.FirstBit = SPI_FIRSTBIT_MSB;
  316:Core/Src/main.c ****   hspi1.Init.TIMode = SPI_TIMODE_DISABLE;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 7
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 7
 
 
  317:Core/Src/main.c ****   hspi1.Init.CRCCalculation = SPI_CRCCALCULATION_DISABLE;
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  371:Core/Src/main.c ****   */
  372:Core/Src/main.c **** static void MX_SPI3_Init(void)
  373:Core/Src/main.c **** {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 8
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 8
 
 
  374:Core/Src/main.c **** 
@@ -478,7 +478,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  428:Core/Src/main.c ****   hspi4.Init.BaudRatePrescaler = SPI_BAUDRATEPRESCALER_2;
  429:Core/Src/main.c ****   hspi4.Init.FirstBit = SPI_FIRSTBIT_MSB;
  430:Core/Src/main.c ****   hspi4.Init.TIMode = SPI_TIMODE_DISABLE;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 9
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 9
 
 
  431:Core/Src/main.c ****   hspi4.Init.CRCCalculation = SPI_CRCCALCULATION_DISABLE;
@@ -538,7 +538,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  485:Core/Src/main.c ****   */
  486:Core/Src/main.c **** static void MX_SPI6_Init(void)
  487:Core/Src/main.c **** {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 10
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 10
 
 
  488:Core/Src/main.c **** 
@@ -598,7 +598,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
   41              		.loc 1 528 3 view .LVU3
   42 0006 1F4B     		ldr	r3, .L3
   43 0008 196B     		ldr	r1, [r3, #48]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 11
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 11
 
 
   44 000a 41F01001 		orr	r1, r1, #16
@@ -658,7 +658,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
   95              		.loc 1 531 3 view .LVU20
   96 0054 0399     		ldr	r1, [sp, #12]
   97              	.LBE5:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 12
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 12
 
 
  532:Core/Src/main.c ****   __HAL_RCC_GPIOB_CLK_ENABLE();
@@ -718,7 +718,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  297:Core/Src/main.c **** 
  150              		.loc 1 297 1 is_stmt 1 view -0
  151              		.cfi_startproc
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 13
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 13
 
 
  152              		@ args = 0, pretend = 0, frame = 0
@@ -778,7 +778,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  315:Core/Src/main.c ****   hspi1.Init.TIMode = SPI_TIMODE_DISABLE;
  189              		.loc 1 315 23 is_stmt 0 view .LVU50
  190 0020 0362     		str	r3, [r0, #32]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 14
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 14
 
 
  316:Core/Src/main.c ****   hspi1.Init.CRCCalculation = SPI_CRCCALCULATION_DISABLE;
@@ -838,7 +838,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  235 0002 0B48     		ldr	r0, .L11
  236 0004 0B4B     		ldr	r3, .L11+4
  237 0006 0360     		str	r3, [r0]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 15
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 15
 
 
  346:Core/Src/main.c ****   hspi2.Init.Direction = SPI_DIRECTION_2LINES;
@@ -898,7 +898,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  271              		.loc 1 356 3 is_stmt 1 view .LVU83
  356:Core/Src/main.c ****   if (HAL_SPI_Init(&hspi2) != HAL_OK)
  272              		.loc 1 356 28 is_stmt 0 view .LVU84
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 16
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 16
 
 
  273 0026 0A23     		movs	r3, #10
@@ -958,7 +958,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  319 0010 8360     		str	r3, [r0, #8]
  386:Core/Src/main.c ****   hspi3.Init.CLKPolarity = SPI_POLARITY_LOW;
  320              		.loc 1 386 3 is_stmt 1 view .LVU95
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 17
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 17
 
 
  386:Core/Src/main.c ****   hspi3.Init.CLKPolarity = SPI_POLARITY_LOW;
@@ -1018,7 +1018,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  355              	.L16:
  356              		.align	2
  357              	.L15:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 18
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 18
 
 
  358 0030 00000000 		.word	hspi3
@@ -1078,7 +1078,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  401              		.loc 1 426 23 is_stmt 0 view .LVU128
  402 0016 4361     		str	r3, [r0, #20]
  427:Core/Src/main.c ****   hspi4.Init.BaudRatePrescaler = SPI_BAUDRATEPRESCALER_2;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 19
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 19
 
 
  403              		.loc 1 427 3 is_stmt 1 view .LVU129
@@ -1138,7 +1138,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  445              	.LFB139:
  449:Core/Src/main.c **** 
  446              		.loc 1 449 1 is_stmt 1 view -0
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 20
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 20
 
 
  447              		.cfi_startproc
@@ -1198,7 +1198,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  484              		.loc 1 467 3 is_stmt 1 view .LVU161
  467:Core/Src/main.c ****   hspi5.Init.TIMode = SPI_TIMODE_DISABLE;
  485              		.loc 1 467 23 is_stmt 0 view .LVU162
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 21
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 21
 
 
  486 0020 0362     		str	r3, [r0, #32]
@@ -1258,7 +1258,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  530              		.loc 1 497 18 is_stmt 0 view .LVU174
  531 0002 0B48     		ldr	r0, .L27
  532 0004 0B4B     		ldr	r3, .L27+4
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 22
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 22
 
 
  533 0006 0360     		str	r3, [r0]
@@ -1318,7 +1318,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  508:Core/Src/main.c ****   if (HAL_SPI_Init(&hspi6) != HAL_OK)
  567              		.loc 1 508 3 is_stmt 1 view .LVU195
  508:Core/Src/main.c ****   if (HAL_SPI_Init(&hspi6) != HAL_OK)
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 23
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 23
 
 
  568              		.loc 1 508 28 is_stmt 0 view .LVU196
@@ -1378,7 +1378,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  615 000e 00BF     		.align	2
  616              	.L31:
  617 0010 00000000 		.word	hrng
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 24
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 24
 
 
  618 0014 00080650 		.word	1342572544
@@ -1438,14 +1438,14 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  537:Core/Src/main.c **** /* USER CODE BEGIN 4 */
  538:Core/Src/main.c **** 
  539:Core/Src/main.c **** /* USER CODE END 4 */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 25
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 25
 
 
  540:Core/Src/main.c **** 
  541:Core/Src/main.c **** /* USER CODE BEGIN Header_StartDefaultTask */
  542:Core/Src/main.c **** /**
  543:Core/Src/main.c ****   * @brief  Function implementing the defaultTask thread.
- 544:Core/Src/main.c ****   * @param  argument: Not used 
+ 544:Core/Src/main.c ****   * @param  argument: Not used
  545:Core/Src/main.c ****   * @retval None
  546:Core/Src/main.c ****   */
  547:Core/Src/main.c **** /* USER CODE END Header_StartDefaultTask */
@@ -1498,7 +1498,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  708              		.cfi_def_cfa_offset 8
  709              		.cfi_offset 4, -8
  710              		.cfi_offset 14, -4
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 26
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 26
 
 
  711 0002 94B0     		sub	sp, sp, #80
@@ -1544,28 +1544,28 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  742              		.loc 1 207 3 view .LVU225
  743 002e 019B     		ldr	r3, [sp, #4]
  744              	.LBE8:
- 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks 
+ 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks
  745              		.loc 1 208 3 view .LVU226
  746              	.LBB9:
- 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks 
+ 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks
  747              		.loc 1 208 3 view .LVU227
  748 0030 0294     		str	r4, [sp, #8]
- 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks 
+ 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks
  749              		.loc 1 208 3 view .LVU228
  750 0032 154A     		ldr	r2, .L42+4
  751 0034 1368     		ldr	r3, [r2]
  752 0036 23F44043 		bic	r3, r3, #49152
  753 003a 43F48043 		orr	r3, r3, #16384
  754 003e 1360     		str	r3, [r2]
- 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 27
+ 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 27
 
 
  755              		.loc 1 208 3 view .LVU229
  756 0040 1368     		ldr	r3, [r2]
  757 0042 03F44043 		and	r3, r3, #49152
  758 0046 0293     		str	r3, [sp, #8]
- 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks 
+ 208:Core/Src/main.c ****   /**Initializes the CPU, AHB and APB busses clocks
  759              		.loc 1 208 3 view .LVU230
  760 0048 029B     		ldr	r3, [sp, #8]
  761              	.LBE9:
@@ -1618,7 +1618,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  219:Core/Src/main.c ****   if (HAL_RCC_OscConfig(&RCC_OscInitStruct) != HAL_OK)
  791              		.loc 1 219 30 is_stmt 0 view .LVU248
  792 0062 0423     		movs	r3, #4
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 28
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 28
 
 
  793 0064 1393     		str	r3, [sp, #76]
@@ -1678,7 +1678,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  832              		.cfi_endproc
  833              	.LFE132:
  835              		.section	.text.main,"ax",%progbits
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 29
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 29
 
 
  836              		.align	1
@@ -1738,7 +1738,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  881              		.loc 1 147 3 view .LVU273
  882 0024 FFF7FEFF 		bl	MX_SPI6_Init
  883              	.LVL22:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 30
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 30
 
 
  148:Core/Src/main.c ****   MX_CRC_Init();
@@ -1769,7 +1769,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  903              		.loc 1 169 21 view .LVU279
  904 0044 034B     		ldr	r3, .L47+4
  905 0046 1860     		str	r0, [r3]
- 181:Core/Src/main.c ****   
+ 181:Core/Src/main.c **** 
  906              		.loc 1 181 3 is_stmt 1 view .LVU280
  907 0048 FFF7FEFF 		bl	osKernelStart
  908              	.LVL26:
@@ -1796,9 +1796,9 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  929              	Error_Handler:
  930              	.LFB143:
  556:Core/Src/main.c ****   }
- 557:Core/Src/main.c ****   /* USER CODE END 5 */ 
+ 557:Core/Src/main.c ****   /* USER CODE END 5 */
  558:Core/Src/main.c **** }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 31
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 31
 
 
  559:Core/Src/main.c **** 
@@ -1858,7 +1858,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  972              		.file 8 "/Users/drb/Downloads/gcc-arm-none-eabi-8-2018-q4-major/arm-none-eabi/include/sys/_types.h
  973              		.file 9 "/Users/drb/Downloads/gcc-arm-none-eabi-8-2018-q4-major/lib/gcc/arm-none-eabi/8.2.1/includ
  974              		.file 10 "/Users/drb/Downloads/gcc-arm-none-eabi-8-2018-q4-major/arm-none-eabi/include/sys/reent.h
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 32
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 32
 
 
  975              		.file 11 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h"
@@ -1872,59 +1872,59 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 1
  983              		.file 19 "Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h"
  984              		.file 20 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h"
  985              		.file 21 "<built-in>"
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 33
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 33
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 main.c
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:18     .text.MX_GPIO_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:25     .text.MX_GPIO_Init:0000000000000000 MX_GPIO_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:137    .text.MX_GPIO_Init:0000000000000084 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:142    .text.MX_SPI1_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:148    .text.MX_SPI1_Init:0000000000000000 MX_SPI1_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:210    .text.MX_SPI1_Init:0000000000000030 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:18     .text.MX_GPIO_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:25     .text.MX_GPIO_Init:0000000000000000 MX_GPIO_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:137    .text.MX_GPIO_Init:0000000000000084 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:142    .text.MX_SPI1_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:148    .text.MX_SPI1_Init:0000000000000000 MX_SPI1_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:210    .text.MX_SPI1_Init:0000000000000030 $d
                             *COM*:0000000000000058 hspi1
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:216    .text.MX_SPI2_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:222    .text.MX_SPI2_Init:0000000000000000 MX_SPI2_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:284    .text.MX_SPI2_Init:0000000000000030 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:216    .text.MX_SPI2_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:222    .text.MX_SPI2_Init:0000000000000000 MX_SPI2_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:284    .text.MX_SPI2_Init:0000000000000030 $d
                             *COM*:0000000000000058 hspi2
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:290    .text.MX_SPI3_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:296    .text.MX_SPI3_Init:0000000000000000 MX_SPI3_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:358    .text.MX_SPI3_Init:0000000000000030 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:290    .text.MX_SPI3_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:296    .text.MX_SPI3_Init:0000000000000000 MX_SPI3_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:358    .text.MX_SPI3_Init:0000000000000030 $d
                             *COM*:0000000000000058 hspi3
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:364    .text.MX_SPI4_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:370    .text.MX_SPI4_Init:0000000000000000 MX_SPI4_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:432    .text.MX_SPI4_Init:0000000000000030 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:364    .text.MX_SPI4_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:370    .text.MX_SPI4_Init:0000000000000000 MX_SPI4_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:432    .text.MX_SPI4_Init:0000000000000030 $d
                             *COM*:0000000000000058 hspi4
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:438    .text.MX_SPI5_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:444    .text.MX_SPI5_Init:0000000000000000 MX_SPI5_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:506    .text.MX_SPI5_Init:0000000000000030 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:438    .text.MX_SPI5_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:444    .text.MX_SPI5_Init:0000000000000000 MX_SPI5_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:506    .text.MX_SPI5_Init:0000000000000030 $d
                             *COM*:0000000000000058 hspi5
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:512    .text.MX_SPI6_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:518    .text.MX_SPI6_Init:0000000000000000 MX_SPI6_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:580    .text.MX_SPI6_Init:0000000000000030 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:512    .text.MX_SPI6_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:518    .text.MX_SPI6_Init:0000000000000000 MX_SPI6_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:580    .text.MX_SPI6_Init:0000000000000030 $d
                             *COM*:0000000000000058 hspi6
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:586    .text.MX_RNG_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:592    .text.MX_RNG_Init:0000000000000000 MX_RNG_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:617    .text.MX_RNG_Init:0000000000000010 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:586    .text.MX_RNG_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:592    .text.MX_RNG_Init:0000000000000000 MX_RNG_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:617    .text.MX_RNG_Init:0000000000000010 $d
                             *COM*:000000000000000c hrng
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:623    .text.MX_CRC_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:629    .text.MX_CRC_Init:0000000000000000 MX_CRC_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:654    .text.MX_CRC_Init:0000000000000010 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:623    .text.MX_CRC_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:629    .text.MX_CRC_Init:0000000000000000 MX_CRC_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:654    .text.MX_CRC_Init:0000000000000010 $d
                             *COM*:0000000000000008 hcrc
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:660    .text.StartDefaultTask:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:667    .text.StartDefaultTask:0000000000000000 StartDefaultTask
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:693    .text.SystemClock_Config:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:700    .text.SystemClock_Config:0000000000000000 SystemClock_Config
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:830    .text.SystemClock_Config:0000000000000084 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:836    .text.main:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:843    .text.main:0000000000000000 main
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:916    .text.main:0000000000000050 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:660    .text.StartDefaultTask:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:667    .text.StartDefaultTask:0000000000000000 StartDefaultTask
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:693    .text.SystemClock_Config:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:700    .text.SystemClock_Config:0000000000000000 SystemClock_Config
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:830    .text.SystemClock_Config:0000000000000084 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:836    .text.main:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:843    .text.main:0000000000000000 main
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:916    .text.main:0000000000000050 $d
                             *COM*:0000000000000004 defaultTaskHandle
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:922    .text.Error_Handler:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:929    .text.Error_Handler:0000000000000000 Error_Handler
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:951    .rodata:0000000000000000 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s:961    .rodata.str1.4:0000000000000000 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:922    .text.Error_Handler:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:929    .text.Error_Handler:0000000000000000 Error_Handler
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:951    .rodata:0000000000000000 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s:961    .rodata.str1.4:0000000000000000 $d
 
 UNDEFINED SYMBOLS
 HAL_SPI_Init
@@ -1932,7 +1932,7 @@ HAL_RNG_Init
 HAL_CRC_Init
 osDelay
 memset
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc9Yv8vd.s 			page 34
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccUm27I4.s 			page 34
 
 
 HAL_RCC_OscConfig
