@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
   27:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****           unit before starting the computation to avoid getting wrong CRC values.
   28:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c **** 
   29:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   @endverbatim
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 2
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 2
 
 
   30:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   ******************************************************************************
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
   84:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c **** 
   85:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c **** /** @addtogroup CRC_Exported_Functions_Group1
   86:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****  *  @brief   Initialization and de-initialization functions 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 3
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 3
 
 
   87:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****  *
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  141:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   * @param  hcrc pointer to a CRC_HandleTypeDef structure that contains
  142:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   *         the configuration information for CRC
  143:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   * @retval HAL status
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 4
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 4
 
 
  144:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   */
@@ -238,7 +238,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
   43              		.global	HAL_CRC_Init
   44              		.syntax unified
   45              		.thumb
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 5
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 5
 
 
   46              		.thumb_func
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
   86 0014 10BD     		pop	{r4, pc}
   87              	.LVL3:
   88              	.L10:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 6
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 6
 
 
  124:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****     /* Init the low level hardware */
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  197:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   /* NOTE : This function Should not be modified, when the callback is needed,
  198:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****             the HAL_CRC_MspDeInit could be implemented in the user file
  199:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****    */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 7
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 7
 
 
  200:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c **** }
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  171              		.loc 1 166 3 view .LVU38
  172 0012 2071     		strb	r0, [r4, #4]
  169:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c **** }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 8
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 8
 
 
  173              		.loc 1 169 3 view .LVU39
@@ -478,7 +478,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  226:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   * @param  hcrc pointer to a CRC_HandleTypeDef structure that contains
  227:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   *         the configuration information for CRC
  228:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   * @param  pBuffer pointer to the buffer containing the data to be computed
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 9
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 9
 
 
  229:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   * @param  BufferLength length of the buffer to be computed
@@ -538,7 +538,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  237 0018 51F82350 		ldr	r5, [r1, r3, lsl #2]
  238              		.loc 1 245 24 discriminator 3 view .LVU57
  239 001c 2560     		str	r5, [r4]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 10
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 10
 
 
  243:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c ****   {
@@ -598,7 +598,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  281              		.global	HAL_CRC_Calculate
  282              		.syntax unified
  283              		.thumb
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 11
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 11
 
 
  284              		.thumb_func
@@ -658,7 +658,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  316 0012 A368     		ldr	r3, [r4, #8]
  317 0014 43F00103 		orr	r3, r3, #1
  318 0018 A360     		str	r3, [r4, #8]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 12
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 12
 
 
  279:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c **** 
@@ -718,7 +718,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  294:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c **** }
  356              		.loc 1 294 1 view .LVU97
  357 0038 30BC     		pop	{r4, r5}
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 13
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 13
 
 
  358              	.LCFI7:
@@ -778,7 +778,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  384              		.loc 1 323 1 is_stmt 1 view -0
  385              		.cfi_startproc
  386              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 14
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 14
 
 
  387              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -806,24 +806,24 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 1
  408              		.file 10 "/Users/drb/Downloads/gcc-arm-none-eabi-8-2018-q4-major/arm-none-eabi/include/sys/reent.h
  409              		.file 11 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h"
  410              		.file 12 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_crc.h"
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s 			page 15
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s 			page 15
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32f4xx_hal_crc.c
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:18     .text.HAL_CRC_MspInit:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:26     .text.HAL_CRC_MspInit:0000000000000000 HAL_CRC_MspInit
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:42     .text.HAL_CRC_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:49     .text.HAL_CRC_Init:0000000000000000 HAL_CRC_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:112    .text.HAL_CRC_MspDeInit:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:119    .text.HAL_CRC_MspDeInit:0000000000000000 HAL_CRC_MspDeInit
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:134    .text.HAL_CRC_DeInit:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:141    .text.HAL_CRC_DeInit:0000000000000000 HAL_CRC_DeInit
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:191    .text.HAL_CRC_Accumulate:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:198    .text.HAL_CRC_Accumulate:0000000000000000 HAL_CRC_Accumulate
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:280    .text.HAL_CRC_Calculate:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:287    .text.HAL_CRC_Calculate:0000000000000000 HAL_CRC_Calculate
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:374    .text.HAL_CRC_GetState:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc8zln0b.s:381    .text.HAL_CRC_GetState:0000000000000000 HAL_CRC_GetState
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:18     .text.HAL_CRC_MspInit:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:26     .text.HAL_CRC_MspInit:0000000000000000 HAL_CRC_MspInit
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:42     .text.HAL_CRC_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:49     .text.HAL_CRC_Init:0000000000000000 HAL_CRC_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:112    .text.HAL_CRC_MspDeInit:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:119    .text.HAL_CRC_MspDeInit:0000000000000000 HAL_CRC_MspDeInit
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:134    .text.HAL_CRC_DeInit:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:141    .text.HAL_CRC_DeInit:0000000000000000 HAL_CRC_DeInit
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:191    .text.HAL_CRC_Accumulate:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:198    .text.HAL_CRC_Accumulate:0000000000000000 HAL_CRC_Accumulate
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:280    .text.HAL_CRC_Calculate:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:287    .text.HAL_CRC_Calculate:0000000000000000 HAL_CRC_Calculate
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:374    .text.HAL_CRC_GetState:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//cc7otBeO.s:381    .text.HAL_CRC_GetState:0000000000000000 HAL_CRC_GetState
 
 NO UNDEFINED SYMBOLS

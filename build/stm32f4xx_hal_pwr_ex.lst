@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
   28:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
   29:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   * DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
   30:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 2
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 2
 
 
   31:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
   85:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     *** Main and Backup Regulators configuration ***
   86:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     ================================================
   87:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     [..] 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 3
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 3
 
 
   88:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****       (+) The backup domain includes 4 Kbytes of backup SRAM accessible only from 
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  142:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****        (+) For STM32F42xxx/43xxx/446xx/469xx/479xx Devices, in Stop mode: the main regulator or low
  143:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****            supplies a low power voltage to the 1.2V domain, thus preserving the content of register
  144:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****            and internal SRAM. 2 operating modes are available:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 4
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 4
 
 
  145:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****          (++) Normal mode: the 1.2V domain is preserved in nominal leakage mode. This mode is only 
@@ -238,7 +238,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
   58 0016 07D1     		bne	.L7
  170:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   {
  171:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     if((HAL_GetTick() - tickstart ) > PWR_BKPREG_TIMEOUT_VALUE)
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 5
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 5
 
 
   59              		.loc 1 171 5 is_stmt 1 view .LVU9
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  102              	.LCFI1:
  103              		.cfi_def_cfa_offset 8
  104              		.cfi_offset 4, -8
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 6
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 6
 
 
  105              		.cfi_offset 14, -4
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  201:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** }
  143              		.loc 1 201 1 view .LVU32
  144 002a 10BD     		pop	{r4, pc}
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 7
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 7
 
 
  145              	.LVL9:
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  211:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** 
  212:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** /**
  213:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   * @brief Disables the Flash Power Down in Stop mode.
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 8
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 8
 
 
  214:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   * @retval None
@@ -478,7 +478,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  232:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** }
  232              		.loc 1 232 1 view .LVU45
  233 0004 00F44040 		and	r0, r0, #49152
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 9
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 9
 
 
  234 0008 7047     		bx	lr
@@ -538,7 +538,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  270:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   }
  271:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** 
  272:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   return HAL_OK;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 10
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 10
 
 
  273:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** }
@@ -598,7 +598,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  269              		.loc 1 310 3 view .LVU49
  311:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   
  312:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   /* Enable PWR RCC Clock Peripheral */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 11
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 11
 
 
  313:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   __HAL_RCC_PWR_CLK_ENABLE();
@@ -658,7 +658,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  312 0038 13F0007F 		tst	r3, #33554432
  313 003c 06D0     		beq	.L41
  325:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 12
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 12
 
 
  326:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****       if((HAL_GetTick() - tickstart ) > PLL_TIMEOUT_VALUE)
@@ -718,7 +718,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  354              	.LVL16:
  340:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     /* Wait till PLL is ready */  
  341:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     while(__HAL_RCC_GET_FLAG(RCC_FLAG_PLLRDY) == RESET)
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 13
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 13
 
 
  355              		.loc 1 341 5 is_stmt 1 view .LVU78
@@ -778,7 +778,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  397 00a0 B0F57A7F 		cmp	r0, #1000
  398 00a4 F4D9     		bls	.L34
  354:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****       {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 14
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 14
 
 
  355:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****         return HAL_TIMEOUT;
@@ -838,7 +838,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  372:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   */
  373:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** void HAL_PWREx_EnableWakeUpPinPolarityRisingEdge(void)
  374:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 15
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 15
 
 
  375:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   *(__IO uint32_t *) CSR_WUPP_BB = (uint32_t)DISABLE;
@@ -898,7 +898,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  429:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   */
  430:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** void HAL_PWREx_DisableLowRegulatorLowVoltage(void)
  431:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 16
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 16
 
 
  432:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   *(__IO uint32_t *) CR_LPLVDS_BB = (uint32_t)DISABLE;
@@ -958,7 +958,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  467              	.LBE9:
  456:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   
  457:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   /* Enable the Over-drive to extend the clock frequency to 180 Mhz */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 17
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 17
 
 
  458:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   __HAL_PWR_OVERDRIVE_ENABLE();
@@ -1018,7 +1018,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  482:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     }
  483:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   } 
  484:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   return HAL_OK;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 18
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 18
 
 
  485:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** }
@@ -1078,7 +1078,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  484:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** }
  540              		.loc 1 484 10 view .LVU129
  541 006a 0020     		movs	r0, #0
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 19
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 19
 
 
  542 006c E8E7     		b	.L48
@@ -1138,7 +1138,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  581 0006 0191     		str	r1, [sp, #4]
  582              		.loc 1 502 3 view .LVU134
  583 0008 184B     		ldr	r3, .L70
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 20
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 20
 
 
  584 000a 1A6C     		ldr	r2, [r3, #64]
@@ -1198,7 +1198,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  518:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   /* Disable the Over-drive */
  519:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   __HAL_PWR_OVERDRIVE_DISABLE();
  520:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 21
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 21
 
 
  521:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   /* Get tick */
@@ -1258,7 +1258,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  526:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     {
  656              		.loc 1 526 23 view .LVU157
  657 005c 001B     		subs	r0, r0, r4
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 22
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 22
 
 
  526:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****     {
@@ -1318,7 +1318,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  556:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   *           
  557:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   * @note   When the voltage regulator operates in low power mode, an additional 
  558:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   *         startup delay is incurred when waking up from Stop mode. 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 23
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 23
 
 
  559:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   *         By keeping the internal regulator ON during Stop mode, the consumption 
@@ -1378,7 +1378,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  718              	.LBE11:
  584:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   /* Enable the Under-drive Mode ---------------------------------------------*/
  585:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   /* Clear Under-drive flag */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 24
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 24
 
 
  586:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c ****   __HAL_PWR_CLEAR_ODRUDR_FLAG();
@@ -1438,7 +1438,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  752              		.loc 1 606 3 is_stmt 1 view .LVU184
  753              		.loc 1 606 5 is_stmt 0 view .LVU185
  754 0044 0129     		cmp	r1, #1
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 25
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 25
 
 
  755 0046 08D0     		beq	.L76
@@ -1498,7 +1498,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
   42:Drivers/CMSIS/Include/cmsis_gcc.h **** #pragma GCC diagnostic ignored "-Wconversion"
   43:Drivers/CMSIS/Include/cmsis_gcc.h **** #pragma GCC diagnostic ignored "-Wunused-parameter"
   44:Drivers/CMSIS/Include/cmsis_gcc.h **** #endif
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 26
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 26
 
 
   45:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -1558,7 +1558,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
   99:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  100:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
  101:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Get IPSR Register
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 27
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 27
 
 
  102:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Returns the content of the IPSR Register.
@@ -1618,7 +1618,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  156:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  157:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
  158:Drivers/CMSIS/Include/cmsis_gcc.h ****   \brief   Set Process Stack Pointer
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 28
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 28
 
 
  159:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Assigns the given value to the Process Stack Pointer (PSP).
@@ -1678,7 +1678,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  213:Drivers/CMSIS/Include/cmsis_gcc.h **** __attribute__( ( always_inline ) ) __STATIC_INLINE void __set_PRIMASK(uint32_t priMask)
  214:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  215:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("MSR primask, %0" : : "r" (priMask) : "memory");
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 29
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 29
 
 
  216:Drivers/CMSIS/Include/cmsis_gcc.h **** }
@@ -1738,7 +1738,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  270:Drivers/CMSIS/Include/cmsis_gcc.h ****   \details Assigns the given value to the Base Priority register only if BASEPRI masking is disable
  271:Drivers/CMSIS/Include/cmsis_gcc.h ****            or the new value increases the BASEPRI priority level.
  272:Drivers/CMSIS/Include/cmsis_gcc.h ****   \param [in]    basePri  Base Priority value to set
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 30
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 30
 
 
  273:Drivers/CMSIS/Include/cmsis_gcc.h ****  */
@@ -1798,7 +1798,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  327:Drivers/CMSIS/Include/cmsis_gcc.h **** }
  328:Drivers/CMSIS/Include/cmsis_gcc.h **** 
  329:Drivers/CMSIS/Include/cmsis_gcc.h **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 31
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 31
 
 
  330:Drivers/CMSIS/Include/cmsis_gcc.h **** /**
@@ -1858,7 +1858,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  384:Drivers/CMSIS/Include/cmsis_gcc.h **** {
  385:Drivers/CMSIS/Include/cmsis_gcc.h ****   __ASM volatile ("wfi");
  386:Drivers/CMSIS/Include/cmsis_gcc.h **** }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 32
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 32
 
 
  387:Drivers/CMSIS/Include/cmsis_gcc.h **** 
@@ -1918,7 +1918,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  796              		.loc 2 383 53 view .LVU195
  797              	.LBB15:
  385:Drivers/CMSIS/Include/cmsis_gcc.h **** }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 33
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 33
 
 
  798              		.loc 2 385 3 view .LVU196
@@ -1953,38 +1953,38 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 1
  828              		.file 12 "/Users/drb/Downloads/gcc-arm-none-eabi-8-2018-q4-major/arm-none-eabi/include/sys/reent.h
  829              		.file 13 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h"
  830              		.file 14 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h"
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s 			page 34
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s 			page 34
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32f4xx_hal_pwr_ex.c
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:18     .text.HAL_PWREx_EnableBkUpReg:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:26     .text.HAL_PWREx_EnableBkUpReg:0000000000000000 HAL_PWREx_EnableBkUpReg
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:82     .text.HAL_PWREx_EnableBkUpReg:000000000000002c $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:88     .text.HAL_PWREx_DisableBkUpReg:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:95     .text.HAL_PWREx_DisableBkUpReg:0000000000000000 HAL_PWREx_DisableBkUpReg
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:150    .text.HAL_PWREx_DisableBkUpReg:000000000000002c $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:156    .text.HAL_PWREx_EnableFlashPowerDown:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:163    .text.HAL_PWREx_EnableFlashPowerDown:0000000000000000 HAL_PWREx_EnableFlashPowerDown
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:180    .text.HAL_PWREx_EnableFlashPowerDown:0000000000000008 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:185    .text.HAL_PWREx_DisableFlashPowerDown:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:192    .text.HAL_PWREx_DisableFlashPowerDown:0000000000000000 HAL_PWREx_DisableFlashPowerDown
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:209    .text.HAL_PWREx_DisableFlashPowerDown:0000000000000008 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:214    .text.HAL_PWREx_GetVoltageRange:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:221    .text.HAL_PWREx_GetVoltageRange:0000000000000000 HAL_PWREx_GetVoltageRange
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:238    .text.HAL_PWREx_GetVoltageRange:000000000000000c $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:243    .text.HAL_PWREx_ControlVoltageScaling:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:250    .text.HAL_PWREx_ControlVoltageScaling:0000000000000000 HAL_PWREx_ControlVoltageScaling
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:421    .text.HAL_PWREx_ControlVoltageScaling:00000000000000b4 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:428    .text.HAL_PWREx_EnableOverDrive:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:435    .text.HAL_PWREx_EnableOverDrive:0000000000000000 HAL_PWREx_EnableOverDrive
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:546    .text.HAL_PWREx_EnableOverDrive:0000000000000070 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:554    .text.HAL_PWREx_DisableOverDrive:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:561    .text.HAL_PWREx_DisableOverDrive:0000000000000000 HAL_PWREx_DisableOverDrive
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:671    .text.HAL_PWREx_DisableOverDrive:000000000000006c $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:679    .text.HAL_PWREx_EnterUnderDriveSTOPMode:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:686    .text.HAL_PWREx_EnterUnderDriveSTOPMode:0000000000000000 HAL_PWREx_EnterUnderDriveSTOPMode
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccN7s1o0.s:809    .text.HAL_PWREx_EnterUnderDriveSTOPMode:0000000000000060 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:18     .text.HAL_PWREx_EnableBkUpReg:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:26     .text.HAL_PWREx_EnableBkUpReg:0000000000000000 HAL_PWREx_EnableBkUpReg
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:82     .text.HAL_PWREx_EnableBkUpReg:000000000000002c $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:88     .text.HAL_PWREx_DisableBkUpReg:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:95     .text.HAL_PWREx_DisableBkUpReg:0000000000000000 HAL_PWREx_DisableBkUpReg
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:150    .text.HAL_PWREx_DisableBkUpReg:000000000000002c $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:156    .text.HAL_PWREx_EnableFlashPowerDown:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:163    .text.HAL_PWREx_EnableFlashPowerDown:0000000000000000 HAL_PWREx_EnableFlashPowerDown
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:180    .text.HAL_PWREx_EnableFlashPowerDown:0000000000000008 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:185    .text.HAL_PWREx_DisableFlashPowerDown:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:192    .text.HAL_PWREx_DisableFlashPowerDown:0000000000000000 HAL_PWREx_DisableFlashPowerDown
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:209    .text.HAL_PWREx_DisableFlashPowerDown:0000000000000008 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:214    .text.HAL_PWREx_GetVoltageRange:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:221    .text.HAL_PWREx_GetVoltageRange:0000000000000000 HAL_PWREx_GetVoltageRange
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:238    .text.HAL_PWREx_GetVoltageRange:000000000000000c $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:243    .text.HAL_PWREx_ControlVoltageScaling:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:250    .text.HAL_PWREx_ControlVoltageScaling:0000000000000000 HAL_PWREx_ControlVoltageScaling
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:421    .text.HAL_PWREx_ControlVoltageScaling:00000000000000b4 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:428    .text.HAL_PWREx_EnableOverDrive:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:435    .text.HAL_PWREx_EnableOverDrive:0000000000000000 HAL_PWREx_EnableOverDrive
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:546    .text.HAL_PWREx_EnableOverDrive:0000000000000070 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:554    .text.HAL_PWREx_DisableOverDrive:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:561    .text.HAL_PWREx_DisableOverDrive:0000000000000000 HAL_PWREx_DisableOverDrive
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:671    .text.HAL_PWREx_DisableOverDrive:000000000000006c $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:679    .text.HAL_PWREx_EnterUnderDriveSTOPMode:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:686    .text.HAL_PWREx_EnterUnderDriveSTOPMode:0000000000000000 HAL_PWREx_EnterUnderDriveSTOPMode
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccnNBc0t.s:809    .text.HAL_PWREx_EnterUnderDriveSTOPMode:0000000000000060 $d
 
 UNDEFINED SYMBOLS
 HAL_GetTick

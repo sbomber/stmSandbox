@@ -1,4 +1,4 @@
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
   28:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****           (##) NVIC configuration if you need to use interrupt process
   29:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****               (+++) Configure the SPIx interrupt priority
   30:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****               (+++) Enable the NVIC SPI IRQ handle
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 2
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 2
 
 
   31:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****           (##) DMA Configuration if you need to use DMA process
@@ -118,7 +118,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
   85:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     |         |     Polling    | Fpclk/2  | Fpclk/4  |     NA    |    NA    | Fpclk/2   | Fpclk/64 
   86:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     |         |----------------|----------|----------|-----------|----------|-----------|----------
   87:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     |    T    |     Interrupt  | Fpclk/2  | Fpclk/4  |     NA    |    NA    | Fpclk/2   | Fpclk/64 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 3
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 3
 
 
   88:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     |    X    |----------------|----------|----------|-----------|----------|-----------|----------
@@ -178,7 +178,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  142:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
  143:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
  144:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 4
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 4
 
 
  145:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
@@ -238,7 +238,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  199:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** static void SPI_2linesRxISR_16BIT(struct __SPI_HandleTypeDef *hspi);
  200:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** #if (USE_SPI_CRC != 0U)
  201:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** static void SPI_RxISR_8BITCRC(struct __SPI_HandleTypeDef *hspi);
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 5
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 5
 
 
  202:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** static void SPI_RxISR_16BITCRC(struct __SPI_HandleTypeDef *hspi);
@@ -298,7 +298,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  256:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   *         in the SPI_InitTypeDef and initialize the associated handle.
  257:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @param  hspi pointer to a SPI_HandleTypeDef structure that contains
  258:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   *               the configuration information for SPI module.
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 6
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 6
 
 
  259:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @retval HAL status
@@ -358,7 +358,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  313:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  314:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Configure : NSS management */
  315:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   WRITE_REG(hspi->Instance->CR2, (((hspi->Init.NSS >> 16U) & SPI_CR2_SSOE) | hspi->Init.TIMode));
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 7
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 7
 
 
  316:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -418,7 +418,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  370:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  371:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** /**
  372:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @brief  Initialize the SPI MSP.
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 8
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 8
 
 
  373:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @param  hspi pointer to a SPI_HandleTypeDef structure that contains
@@ -478,7 +478,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  427:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****             The HAL_SPI_TxCpltCallback(), HAL_SPI_RxCpltCallback() and HAL_SPI_TxRxCpltCallback() u
  428:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****             will be executed respectively at the end of the transmit or Receive process
  429:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****             The HAL_SPI_ErrorCallback()user callback will be executed when a communication error is
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 9
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 9
 
 
  430:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -538,7 +538,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  484:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxISR       = NULL;
  485:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxISR       = NULL;
  486:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 10
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 10
 
 
  487:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Configure communication direction : 1Line */
@@ -598,7 +598,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  541:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     if((hspi->Init.Mode == SPI_MODE_SLAVE)|| (hspi->TxXferCount == 0x01))
  542:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
  543:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       *((__IO uint8_t*)&hspi->Instance->DR) = (*pData);
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 11
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 11
 
 
  544:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       pData += sizeof(uint8_t);
@@ -658,7 +658,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  598:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     errorcode = HAL_ERROR;
  599:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
  600:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 12
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 12
 
 
  601:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** error:
@@ -718,7 +718,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  655:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount = Size;
  656:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  657:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /*Init field not used in handle to zero */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 13
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 13
 
 
  658:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->pTxBuffPtr  = (uint8_t *)NULL;
@@ -778,7 +778,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  712:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   else
  713:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  714:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     /* Transfer loop */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 14
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 14
 
 
  715:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     while(hspi->RxXferCount > 0U)
@@ -838,7 +838,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  769:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  770:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     /* Read CRC to Flush DR and RXNE flag */
  771:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     tmpreg = hspi->Instance->DR;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 15
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 15
 
 
  772:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     /* To avoid GCC warning */
@@ -898,7 +898,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  826:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   assert_param(IS_SPI_DIRECTION_2LINES(hspi->Init.Direction));
  827:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  828:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Process Locked */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 16
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 16
 
 
  829:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   __HAL_LOCK(hspi);
@@ -958,7 +958,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  883:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  884:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Transmit and Receive data in 16 Bit mode */
  885:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if(hspi->Init.DataSize == SPI_DATASIZE_16BIT)
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 17
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 17
 
 
  886:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
@@ -1018,7 +1018,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  940:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       /* check TXE flag */
  941:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       if(txallowed && (hspi->TxXferCount > 0U) && (__HAL_SPI_GET_FLAG(hspi, SPI_FLAG_TXE)))
  942:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 18
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 18
 
 
  943:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         *(__IO uint8_t *)&hspi->Instance->DR = (*pTxData++);
@@ -1078,7 +1078,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  997:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  998:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     errorcode = HAL_ERROR;
  999:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 19
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 19
 
 
 1000:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** #endif /* USE_SPI_CRC */
@@ -1138,7 +1138,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1054:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
 1055:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     errorcode = HAL_BUSY;
 1056:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     goto error;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 20
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 20
 
 
 1057:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
@@ -1198,7 +1198,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1111:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     __HAL_SPI_ENABLE(hspi);
 1112:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
 1113:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 21
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 21
 
 
 1114:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** error :
@@ -1258,7 +1258,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1168:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
 1169:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     hspi->RxISR = SPI_RxISR_16BIT;
 1170:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 22
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 22
 
 
 1171:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   else
@@ -1318,7 +1318,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1225:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   assert_param(IS_SPI_DIRECTION_2LINES(hspi->Init.Direction));
 1226:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 1227:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Process locked */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 23
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 23
 
 
 1228:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   __HAL_LOCK(hspi);
@@ -1378,7 +1378,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1282:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   __HAL_SPI_ENABLE_IT(hspi, (SPI_IT_TXE | SPI_IT_RXNE | SPI_IT_ERR));
 1283:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 1284:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Check if the SPI is already enabled */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 24
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 24
 
 
 1285:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if((hspi->Instance->CR1 &SPI_CR1_SPE) != SPI_CR1_SPE)
@@ -1438,7 +1438,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1339:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount = 0U;
 1340:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 1341:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Configure communication direction : 1Line */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 25
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 25
 
 
 1342:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if(hspi->Init.Direction == SPI_DIRECTION_1LINE)
@@ -1498,7 +1498,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1396:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @retval HAL status
 1397:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   */
 1398:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** HAL_StatusTypeDef HAL_SPI_Receive_DMA(SPI_HandleTypeDef *hspi, uint8_t *pData, uint16_t Size)
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 26
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 26
 
 
 1399:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** {
@@ -1558,7 +1558,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1453:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 1454:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Set the SPI Rx DMA transfer complete callback */
 1455:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->hdmarx->XferCpltCallback = SPI_DMAReceiveCplt;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 27
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 27
 
 
 1456:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -1618,7 +1618,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1510:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
 1511:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     errorcode = HAL_BUSY;
 1512:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     goto error;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 28
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 28
 
 
 1513:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
@@ -1678,7 +1678,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1567:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 1568:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Enable the Rx DMA Stream */
 1569:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   HAL_DMA_Start_IT(hspi->hdmarx, (uint32_t)&hspi->Instance->DR, (uint32_t)hspi->pRxBuffPtr, hspi->R
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 29
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 29
 
 
 1570:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -1738,7 +1738,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1624:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     hspi->TxISR = SPI_AbortTx_ISR;
 1625:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
 1626:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 30
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 30
 
 
 1627:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if(HAL_IS_BIT_SET(hspi->Instance->CR2, SPI_CR2_RXNEIE))
@@ -1798,7 +1798,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1681:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount = 0U;
 1682:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxXferCount = 0U;
 1683:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 31
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 31
 
 
 1684:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Reset errorCode */
@@ -1858,7 +1858,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1738:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
 1739:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     /* Set DMA Abort Complete callback if UART DMA Tx request if enabled.
 1740:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****        Otherwise, set it to NULL */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 32
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 32
 
 
 1741:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     if(HAL_IS_BIT_SET(hspi->Instance->CR2, SPI_CR2_TXDMAEN))
@@ -1918,7 +1918,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1795:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
 1796:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 1797:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Disable the SPI DMA Tx or the SPI Rx request if enabled */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 33
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 33
 
 
 1798:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if (HAL_IS_BIT_SET(hspi->Instance->CR2, SPI_CR2_TXDMAEN))
@@ -1978,7 +1978,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1852:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** }
 1853:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 1854:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** /**
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 34
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 34
 
 
 1855:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @brief  Pause the DMA Transfer.
@@ -2038,7 +2038,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1909:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if(hspi->hdmatx != NULL)
 1910:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
 1911:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     HAL_DMA_Abort(hspi->hdmatx);
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 35
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 35
 
 
 1912:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
@@ -2098,7 +2098,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1966:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       }
 1967:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
 1968:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 36
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 36
 
 
 1969:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     /* SPI Mode Fault error interrupt occurred -------------------------------*/
@@ -2158,7 +2158,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2023:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @param  hspi pointer to a SPI_HandleTypeDef structure that contains
 2024:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   *               the configuration information for SPI module.
 2025:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @retval None
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 37
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 37
 
 
 2026:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   */
@@ -2218,7 +2218,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2080:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 2081:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** /**
 2082:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @brief Rx Half Transfer completed callback.
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 38
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 38
 
 
 2083:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @param  hspi pointer to a SPI_HandleTypeDef structure that contains
@@ -2278,7 +2278,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2137:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   UNUSED(hspi);
 2138:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 2139:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* NOTE : This function should not be modified, when the callback is needed,
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 39
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 39
 
 
 2140:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****             the HAL_SPI_AbortCpltCallback can be implemented in the user file.
@@ -2338,7 +2338,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2194:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 2195:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** /** @addtogroup SPI_Private_Functions
 2196:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @brief   Private functions
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 40
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 40
 
 
 2197:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   * @{
@@ -2398,7 +2398,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2251:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** {
 2252:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   SPI_HandleTypeDef* hspi = ( SPI_HandleTypeDef* )((DMA_HandleTypeDef* )hdma)->Parent;
 2253:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** #if (USE_SPI_CRC != 0U)
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 41
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 41
 
 
 2254:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   uint32_t tickstart = 0U;
@@ -2458,7 +2458,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2308:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   HAL_SPI_RxCpltCallback(hspi);
 2309:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** }
 2310:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 42
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 42
 
 
 2311:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** /**
@@ -2518,7 +2518,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2365:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 2366:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     if(hspi->ErrorCode != HAL_SPI_ERROR_NONE)
 2367:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 43
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 43
 
 
 2368:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       HAL_SPI_ErrorCallback(hspi);
@@ -2578,7 +2578,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2422:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   SPI_HandleTypeDef* hspi = (SPI_HandleTypeDef* )((DMA_HandleTypeDef* )hdma)->Parent;
 2423:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 2424:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** /* Stop the disable DMA transfer on SPI side */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 44
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 44
 
 
 2425:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   CLEAR_BIT(hspi->Instance->CR2, SPI_CR2_TXDMAEN | SPI_CR2_RXDMAEN);
@@ -2638,7 +2638,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2479:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     if(hspi->hdmarx->XferAbortCallback != NULL)
 2480:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
 2481:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       return;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 45
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 45
 
 
 2482:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
@@ -2698,7 +2698,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2536:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->ErrorCode = HAL_SPI_ERROR_NONE;
 2537:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
 2538:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Clear the Error flags in the SR register */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 46
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 46
 
 
 2539:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   __HAL_SPI_CLEAR_OVRFLAG(hspi);
@@ -2758,7 +2758,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2593:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Read data register to flush CRC */
 2594:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   tmpreg = *((__IO uint8_t *)&hspi->Instance->DR);
 2595:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 47
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 47
 
 
 2596:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* To avoid GCC warning */
@@ -2818,7 +2818,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2650:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** {
 2651:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Receive data in 16 Bit mode */
 2652:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   *((uint16_t*)hspi->pRxBuffPtr) = hspi->Instance->DR;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 48
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 48
 
 
 2653:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->pRxBuffPtr += sizeof(uint16_t);
@@ -2878,7 +2878,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2707:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** static void SPI_2linesTxISR_16BIT(struct __SPI_HandleTypeDef *hspi)
 2708:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** {
 2709:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Transmit data in 16 Bit mode */
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 49
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 49
 
 
 2710:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->Instance->DR = *((uint16_t *)hspi->pTxBuffPtr);
@@ -2938,7 +2938,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2764:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** {
 2765:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   *hspi->pRxBuffPtr++ = (*(__IO uint8_t *)&hspi->Instance->DR);
 2766:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount--;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 50
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 50
 
 
 2767:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -2998,7 +2998,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2821:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   *((uint16_t *)hspi->pRxBuffPtr) = hspi->Instance->DR;
 2822:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->pRxBuffPtr += sizeof(uint16_t);
 2823:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount--;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 51
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 51
 
 
 2824:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -3058,7 +3058,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2878:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Transmit data in 16 Bit mode */
 2879:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->Instance->DR = *((uint16_t *)hspi->pTxBuffPtr);
 2880:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->pTxBuffPtr += sizeof(uint16_t);
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 52
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 52
 
 
 2881:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxXferCount--;
@@ -3118,7 +3118,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2935:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         /* Process Unlocked */
 2936:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         __HAL_UNLOCK(hspi);
 2937:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 53
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 53
 
 
 2938:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         return HAL_TIMEOUT;
@@ -3178,7 +3178,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2992:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if(SPI_CheckFlag_BSY(hspi, SPI_DEFAULT_TIMEOUT, tickstart)!=HAL_OK)
 2993:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
 2994:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     SET_BIT(hspi->ErrorCode, HAL_SPI_ERROR_FLAG);
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 54
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 54
 
 
 2995:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
@@ -3238,7 +3238,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 3049:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     /* Check the end of the transaction */
 3050:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     if((hspi->Init.Mode == SPI_MODE_MASTER)&&((hspi->Init.Direction == SPI_DIRECTION_1LINE)||(hspi-
 3051:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 55
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 55
 
 
 3052:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       /* Disable SPI peripheral */
@@ -3298,7 +3298,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 3106:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       SET_BIT(hspi->ErrorCode, HAL_SPI_ERROR_FLAG);
 3107:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       break;
 3108:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 56
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 56
 
 
 3109:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
@@ -3358,7 +3358,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
   41 0004 0193     		str	r3, [sp, #4]
 3151:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   __IO uint32_t count = SPI_DEFAULT_TIMEOUT * (SystemCoreClock / 24U / 1000U);
   42              		.loc 1 3151 3 is_stmt 1 view .LVU4
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 57
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 57
 
 
   43              		.loc 1 3151 70 is_stmt 0 view .LVU5
@@ -3418,7 +3418,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
   81 003a 23F04003 		bic	r3, r3, #64
   82 003e 1360     		str	r3, [r2]
 3166:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 58
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 58
 
 
 3167:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Disable TXEIE, RXNEIE and ERRIE(mode fault event, overrun error, TI frame error) interrupts */
@@ -3478,7 +3478,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  121              		.loc 1 3184 1 is_stmt 1 view -0
  122              		.cfi_startproc
  123              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 59
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 59
 
 
  124              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -3538,7 +3538,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  170              		.loc 1 2908 8 is_stmt 0 view .LVU32
  171 000a 3BE0     		b	.L12
  172              	.LVL3:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 60
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 60
 
 
  173              	.L25:
@@ -3598,7 +3598,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  211              		.loc 1 2936 9 view .LVU48
  212 003a 0023     		movs	r3, #0
  213 003c 85F85030 		strb	r3, [r5, #80]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 61
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 61
 
 
 2938:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       }
@@ -3658,7 +3658,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  256              		.loc 1 2910 5 is_stmt 1 view .LVU60
 2910:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
  257              		.loc 1 2910 7 is_stmt 0 view .LVU61
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 62
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 62
 
 
  258 007e B4F1FF3F 		cmp	r4, #-1
@@ -3718,7 +3718,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2956:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  305              		.loc 1 2956 6 is_stmt 0 view .LVU71
  306 0006 0092     		str	r2, [sp]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 63
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 63
 
 
  307 0008 0B46     		mov	r3, r1
@@ -3778,7 +3778,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  355              		.cfi_startproc
  356              		@ args = 0, pretend = 0, frame = 0
  357              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 64
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 64
 
 
  358              		@ link register save eliminated.
@@ -3838,7 +3838,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  399              		.loc 1 278 3 view .LVU94
  280:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     assert_param(IS_SPI_CPHA(hspi->Init.CLKPhase));
  400              		.loc 1 280 5 view .LVU95
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 65
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 65
 
 
  281:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
@@ -3898,7 +3898,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  444              		.loc 1 315 3 view .LVU106
  445 004e 638B     		ldrh	r3, [r4, #26]
  446 0050 03F00403 		and	r3, r3, #4
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 66
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 66
 
 
  447 0054 616A     		ldr	r1, [r4, #36]
@@ -3958,7 +3958,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  488              		.cfi_endproc
  489              	.LFE126:
  491              		.section	.text.HAL_SPI_MspDeInit,"ax",%progbits
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 67
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 67
 
 
  492              		.align	1
@@ -4018,7 +4018,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  354:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  540              		.loc 1 354 15 is_stmt 0 view .LVU129
  541 0006 0223     		movs	r3, #2
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 68
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 68
 
 
  542 0008 80F85130 		strb	r3, [r0, #81]
@@ -4078,7 +4078,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  586              	HAL_SPI_Transmit:
  587              	.LVL22:
  588              	.LFB130:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 69
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 69
 
 
  448:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   uint32_t tickstart = 0U;
@@ -4138,7 +4138,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  461:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  631              		.loc 1 461 3 is_stmt 1 discriminator 2 view .LVU154
  461:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 70
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 70
 
 
  632              		.loc 1 461 10 is_stmt 0 discriminator 2 view .LVU155
@@ -4198,7 +4198,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  483:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxISR       = NULL;
  668              		.loc 1 483 3 is_stmt 1 view .LVU174
  483:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxISR       = NULL;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 71
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 71
 
 
  669              		.loc 1 483 21 is_stmt 0 view .LVU175
@@ -4258,7 +4258,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  541:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
  706              		.loc 1 541 7 view .LVU193
  707 0080 1BB1     		cbz	r3, .L63
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 72
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 72
 
 
  541:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
@@ -4318,7 +4318,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  747 00ac E38E     		ldrh	r3, [r4, #54]
  748 00ae 9BB2     		uxth	r3, r3
  511:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 73
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 73
 
 
  749              		.loc 1 511 44 discriminator 1 view .LVU209
@@ -4378,7 +4378,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  788 00d6 9A68     		ldr	r2, [r3, #8]
  521:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       {
  789              		.loc 1 521 9 view .LVU225
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 74
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 74
 
 
  790 00d8 12F0020F 		tst	r2, #2
@@ -4438,7 +4438,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  828              		.loc 1 559 11 is_stmt 0 view .LVU241
  829 00fc BDB1     		cbz	r5, .L68
  559:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 75
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 75
 
 
  830              		.loc 1 559 28 discriminator 1 view .LVU242
@@ -4498,7 +4498,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  869 012a A842     		cmp	r0, r5
  870 012c EAD3     		bcc	.L65
  871              	.L68:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 76
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 76
 
 
  561:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****           goto error;
@@ -4558,7 +4558,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  911              		.loc 1 586 5 is_stmt 1 view .LVU272
  912              	.LBB2:
  586:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 77
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 77
 
 
  913              		.loc 1 586 5 view .LVU273
@@ -4618,7 +4618,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  952              		.loc 1 602 3 is_stmt 1 view .LVU288
  602:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Process Unlocked */
  953              		.loc 1 602 15 is_stmt 0 view .LVU289
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 78
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 78
 
 
  954 0178 0122     		movs	r2, #1
@@ -4678,7 +4678,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1003              		@ frame_needed = 0, uses_anonymous_args = 0
  815:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   uint32_t tmp = 0U, tmp1 = 0U;
  1004              		.loc 1 815 1 is_stmt 0 view .LVU297
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 79
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 79
 
 
  1005 0000 2DE9F043 		push	{r4, r5, r6, r7, r8, r9, lr}
@@ -4738,7 +4738,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1046              		.loc 1 834 3 is_stmt 1 discriminator 2 view .LVU310
  834:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   tmp1 = hspi->Init.Mode;
  1047              		.loc 1 834 14 is_stmt 0 discriminator 2 view .LVU311
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 80
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 80
 
 
  1048 0026 94F85130 		ldrb	r3, [r4, #81]	@ zero_extendqisi2
@@ -4798,7 +4798,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1087 0060 DBB2     		uxtb	r3, r3
  851:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  1088              		.loc 1 851 5 view .LVU327
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 81
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 81
 
 
  1089 0062 012B     		cmp	r3, #1
@@ -4858,7 +4858,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  878:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  1123              		.loc 1 878 21 view .LVU348
  1124 0084 1A68     		ldr	r2, [r3]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 82
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 82
 
 
  878:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
@@ -4918,7 +4918,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  936:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
  1163              		.loc 1 936 11 is_stmt 0 view .LVU365
  1164 00b0 E38E     		ldrh	r3, [r4, #54]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 83
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 83
 
 
  936:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
@@ -4978,7 +4978,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1204              		.loc 1 891 7 view .LVU380
  891:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
  1205              		.loc 1 891 11 is_stmt 0 view .LVU381
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 84
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 84
 
 
  1206 00da E38E     		ldrh	r3, [r4, #54]
@@ -5038,7 +5038,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  920:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       }
  1245              		.loc 1 920 19 is_stmt 0 view .LVU397
  1246 0106 4FF00108 		mov	r8, #1
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 85
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 85
 
 
  1247              	.LVL69:
@@ -5098,7 +5098,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  898:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         pTxData += sizeof(uint16_t);
  1287              		.loc 1 898 28 view .LVU412
  1288 013a DA60     		str	r2, [r3, #12]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 86
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 86
 
 
  899:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         hspi->TxXferCount--;
@@ -5158,7 +5158,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1328 0164 12F0010F 		tst	r2, #1
  1329 0168 08D0     		beq	.L104
  960:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         hspi->RxXferCount--;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 87
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 87
 
 
  1330              		.loc 1 960 9 is_stmt 1 view .LVU428
@@ -5218,7 +5218,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1369 0192 E2D0     		beq	.L103
  941:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       {
  1370              		.loc 1 941 28 discriminator 1 view .LVU444
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 88
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 88
 
 
  1371 0194 E38E     		ldrh	r3, [r4, #54]
@@ -5278,7 +5278,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1410              		.loc 1 967 19 view .LVU459
  1411 01c6 0323     		movs	r3, #3
  1412 01c8 20E0     		b	.L88
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 89
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 89
 
 
  1413              	.L99:
@@ -5338,7 +5338,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1453 01fa 9268     		ldr	r2, [r2, #8]
  1454 01fc 0392     		str	r2, [sp, #12]
 1020:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 90
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 90
 
 
  1455              		.loc 1 1020 5 view .LVU474
@@ -5398,7 +5398,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1496              	.LVL91:
  1497              	.L110:
  1498              	.LCFI18:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 91
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 91
 
 
  1499              		.cfi_restore_state
@@ -5458,7 +5458,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1543              		.global	HAL_SPI_Receive
  1544              		.syntax unified
  1545              		.thumb
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 92
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 92
 
 
  1546              		.thumb_func
@@ -5518,7 +5518,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1591 0022 84F85030 		strb	r3, [r4, #80]
  636:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  1592              		.loc 1 636 3 discriminator 2 view .LVU509
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 93
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 93
 
 
  636:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -5578,7 +5578,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1629 0056 A4F83E80 		strh	r8, [r4, #62]	@ movhi
  658:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxXferSize  = 0U;
  1630              		.loc 1 658 3 is_stmt 1 view .LVU528
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 94
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 94
 
 
  658:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxXferSize  = 0U;
@@ -5638,7 +5638,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1666              		.loc 1 688 16 is_stmt 0 view .LVU547
  1667 007e E368     		ldr	r3, [r4, #12]
  688:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 95
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 95
 
 
  1668              		.loc 1 688 5 view .LVU548
@@ -5698,7 +5698,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  691:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
  1710              		.loc 1 691 15 view .LVU561
  1711 00b0 E38F     		ldrh	r3, [r4, #62]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 96
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 96
 
 
  1712 00b2 9BB2     		uxth	r3, r3
@@ -5758,7 +5758,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  706:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****           goto error;
  1750              		.loc 1 706 21 is_stmt 0 view .LVU578
  1751 00da 0320     		movs	r0, #3
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 97
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 97
 
 
  707:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         }
@@ -5818,7 +5818,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1790              	.L153:
  727:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         {
  1791              		.loc 1 727 64 discriminator 2 view .LVU595
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 98
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 98
 
 
  1792 0106 FFF7FEFF 		bl	HAL_GetTick
@@ -5878,7 +5878,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1830              		.loc 1 778 90 discriminator 2 view .LVU611
  1831 012c B3F5806F 		cmp	r3, #1024
  1832 0130 F4D1     		bne	.L142
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 99
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 99
 
 
  1833              	.L143:
@@ -5938,7 +5938,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1876 0156 0120     		movs	r0, #1
  1877              	.LVL126:
  646:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     goto error;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 100
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 100
 
 
  1878              		.loc 1 646 15 view .LVU623
@@ -5998,7 +5998,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1923 000a 0120     		movs	r0, #1
  1924 000c 83F85000 		strb	r0, [r3, #80]
 1047:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 101
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 101
 
 
  1925              		.loc 1 1047 3 discriminator 2 view .LVU635
@@ -6058,7 +6058,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1960              		.loc 1 1068 21 is_stmt 0 view .LVU654
  1961 0034 9887     		strh	r0, [r3, #60]	@ movhi
 1069:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxISR       = NULL;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 102
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 102
 
 
  1962              		.loc 1 1069 3 is_stmt 1 view .LVU655
@@ -6118,7 +6118,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  1999              		.loc 1 1108 11 is_stmt 0 view .LVU672
  2000 0058 1A68     		ldr	r2, [r3]
 1108:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 103
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 103
 
 
  2001              		.loc 1 1108 21 view .LVU673
@@ -6178,7 +6178,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2045              	.LVL138:
  2046              	.L157:
 1115:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   return errorcode;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 104
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 104
 
 
  2047              		.loc 1 1115 3 is_stmt 1 view .LVU684
@@ -6238,7 +6238,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2094              		.loc 1 1220 1 is_stmt 0 view .LVU693
  2095 0000 30B4     		push	{r4, r5}
  2096              	.LCFI23:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 105
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 105
 
 
  2097              		.cfi_def_cfa_offset 8
@@ -6298,7 +6298,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2135 0028 042C     		cmp	r4, #4
  2136 002a 3AD1     		bne	.L181
  2137              	.L173:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 106
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 106
 
 
 1240:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
@@ -6358,7 +6358,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1258:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount = Size;
  2174              		.loc 1 1258 3 is_stmt 1 view .LVU728
 1258:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount = Size;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 107
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 107
 
 
  2175              		.loc 1 1258 21 is_stmt 0 view .LVU729
@@ -6418,7 +6418,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2213 0074 42F04002 		orr	r2, r2, #64
  2214 0078 1A60     		str	r2, [r3]
 1222:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 108
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 108
 
 
  2215              		.loc 1 1222 21 is_stmt 0 view .LVU746
@@ -6478,7 +6478,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2257              		.cfi_restore 4
  2258              		.cfi_def_cfa_offset 0
  2259 009c 7047     		bx	lr
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 109
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 109
 
 
  2260              	.LVL157:
@@ -6538,7 +6538,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2303              	.L178:
 1228:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  2304              		.loc 1 1228 3 view .LVU770
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 110
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 110
 
 
  2305 00b6 0223     		movs	r3, #2
@@ -6598,7 +6598,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2352              		.loc 1 1131 53 discriminator 1 view .LVU779
  2353 000a B3F5827F 		cmp	r3, #260
  2354 000e 32D0     		beq	.L203
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 111
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 111
 
 
  2355              	.L191:
@@ -6658,7 +6658,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1157:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount = Size;
  2392              		.loc 1 1157 21 is_stmt 0 view .LVU797
  2393 003c A287     		strh	r2, [r4, #60]	@ movhi
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 112
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 112
 
 
 1158:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -6718,7 +6718,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1198:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  2430              		.loc 1 1198 3 view .LVU816
 1198:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 113
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 113
 
 
  2431              		.loc 1 1198 11 is_stmt 0 view .LVU817
@@ -6778,7 +6778,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2471 008c 2268     		ldr	r2, [r4]
  2472              	.LVL178:
 1179:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 114
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 114
 
 
  2473              		.loc 1 1179 5 is_stmt 0 view .LVU832
@@ -6838,7 +6838,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2517              	.L205:
  2518 00b4 00000000 		.word	SPI_RxISR_16BIT
  2519 00b8 00000000 		.word	SPI_RxISR_8BIT
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 115
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 115
 
 
  2520              		.cfi_endproc
@@ -6898,7 +6898,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2564 001c 0029     		cmp	r1, #0
  2565 001e 45D0     		beq	.L214
 1321:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 116
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 116
 
 
  2566              		.loc 1 1321 22 discriminator 1 view .LVU855
@@ -6958,7 +6958,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2600 003c C387     		strh	r3, [r0, #62]	@ movhi
 1342:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  2601              		.loc 1 1342 3 is_stmt 1 view .LVU876
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 117
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 117
 
 
 1342:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
@@ -7018,7 +7018,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2638              		.loc 1 1368 3 view .LVU894
  2639 0062 0C32     		adds	r2, r2, #12
  2640 0064 216B     		ldr	r1, [r4, #48]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 118
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 118
 
 
  2641              	.LVL189:
@@ -7078,7 +7078,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2683              	.LVL194:
 1344:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
  2684              		.loc 1 1344 5 view .LVU907
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 119
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 119
 
 
  2685 00a0 D1E7     		b	.L210
@@ -7138,7 +7138,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2728 00bc 00000000 		.word	SPI_DMATransmitCplt
  2729 00c0 00000000 		.word	SPI_DMAError
  2730              		.cfi_endproc
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 120
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 120
 
 
  2731              	.LFE136:
@@ -7198,7 +7198,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1507:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if(!((tmp == HAL_SPI_STATE_READY) ||
  2776              		.loc 1 1507 3 is_stmt 1 discriminator 2 view .LVU930
 1507:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   if(!((tmp == HAL_SPI_STATE_READY) ||
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 121
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 121
 
 
  2777              		.loc 1 1507 8 is_stmt 0 discriminator 2 view .LVU931
@@ -7258,7 +7258,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1528:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->pTxBuffPtr  = (uint8_t*)pTxData;
  2817              		.loc 1 1528 3 is_stmt 1 view .LVU946
 1528:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->pTxBuffPtr  = (uint8_t*)pTxData;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 122
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 122
 
 
  2818              		.loc 1 1528 21 is_stmt 0 view .LVU947
@@ -7318,7 +7318,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2852 0060 042B     		cmp	r3, #4
  2853 0062 3FD0     		beq	.L240
 1558:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     hspi->hdmarx->XferCpltCallback     = SPI_DMATransmitReceiveCplt;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 123
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 123
 
 
  2854              		.loc 1 1558 5 is_stmt 1 view .LVU968
@@ -7378,7 +7378,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2892 0086 FFF7FEFF 		bl	HAL_DMA_Start_IT
  2893              	.LVL214:
 1572:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 124
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 124
 
 
  2894              		.loc 1 1572 3 is_stmt 1 view .LVU985
@@ -7438,7 +7438,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1585:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  2931              		.loc 1 1585 11 is_stmt 0 view .LVU1003
  2932 00b2 2368     		ldr	r3, [r4]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 125
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 125
 
 
 1585:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
@@ -7498,7 +7498,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  2974              		.loc 1 1553 5 is_stmt 1 view .LVU1016
 1553:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
  2975              		.loc 1 1553 9 is_stmt 0 view .LVU1017
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 126
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 126
 
 
  2976 00ea E36C     		ldr	r3, [r4, #76]
@@ -7558,7 +7558,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3018              	.L236:
 1517:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     goto error;
  3019              		.loc 1 1517 15 view .LVU1030
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 127
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 127
 
 
  3020 0108 0120     		movs	r0, #1
@@ -7618,7 +7618,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3069              		.cfi_offset 4, -12
  3070              		.cfi_offset 5, -8
  3071              		.cfi_offset 14, -4
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 128
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 128
 
 
  3072 0002 0446     		mov	r4, r0
@@ -7678,7 +7678,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1425:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->ErrorCode   = HAL_SPI_ERROR_NONE;
  3110              		.loc 1 1425 3 is_stmt 1 view .LVU1054
 1425:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->ErrorCode   = HAL_SPI_ERROR_NONE;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 129
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 129
 
 
  3111              		.loc 1 1425 21 is_stmt 0 view .LVU1055
@@ -7738,7 +7738,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1452:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  3146              		.loc 1 1452 7 is_stmt 0 view .LVU1075
  3147 004e E36C     		ldr	r3, [r4, #76]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 130
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 130
 
 
 1452:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -7798,7 +7798,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3185 0076 1A68     		ldr	r2, [r3]
 1467:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  3186              		.loc 1 1467 5 view .LVU1093
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 131
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 131
 
 
  3187 0078 12F0400F 		tst	r2, #64
@@ -7858,7 +7858,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3229 00b0 1368     		ldr	r3, [r2]
  3230 00b2 23F48043 		bic	r3, r3, #16384
  3231 00b6 1360     		str	r3, [r2]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 132
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 132
 
 
  3232              	.LVL246:
@@ -7918,7 +7918,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3280              	.LVL251:
  3281              	.LFB139:
 1618:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   __IO uint32_t count = SPI_DEFAULT_TIMEOUT * (SystemCoreClock / 24U / 1000U);
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 133
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 133
 
 
  3282              		.loc 1 1618 1 is_stmt 1 view -0
@@ -7978,7 +7978,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3323              		.loc 1 1627 5 view .LVU1127
  3324 002a 12F0400F 		tst	r2, #64
  3325 002e 01D0     		beq	.L260
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 134
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 134
 
 
 1629:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
@@ -8038,7 +8038,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3364 005c 2268     		ldr	r2, [r4]
  3365 005e 5368     		ldr	r3, [r2, #4]
  3366 0060 23F00203 		bic	r3, r3, #2
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 135
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 135
 
 
  3367 0064 5360     		str	r3, [r2, #4]
@@ -8098,7 +8098,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3405              		.loc 1 1673 7 view .LVU1159
  3406 0090 2268     		ldr	r2, [r4]
  3407 0092 1368     		ldr	r3, [r2]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 136
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 136
 
 
  3408 0094 23F04003 		bic	r3, r3, #64
@@ -8158,7 +8158,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1689:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  3447              		.loc 1 1689 3 view .LVU1175
  3448 00c0 029B     		ldr	r3, [sp, #8]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 137
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 137
 
 
  3449              	.LBE5:
@@ -8218,7 +8218,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3496 000a 80F85030 		strb	r3, [r0, #80]
 1866:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  3497              		.loc 1 1866 3 discriminator 2 view .LVU1185
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 138
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 138
 
 
  3498 000e 0268     		ldr	r2, [r0]
@@ -8278,7 +8278,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3543              		.loc 1 1883 3 discriminator 2 view .LVU1196
  3544 0008 0123     		movs	r3, #1
  3545 000a 80F85030 		strb	r3, [r0, #80]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 139
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 139
 
 
 1886:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -8338,7 +8338,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3592 0002 0446     		mov	r4, r0
 1909:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  3593              		.loc 1 1909 3 is_stmt 1 view .LVU1207
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 140
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 140
 
 
 1909:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
@@ -8398,7 +8398,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3637              	HAL_SPI_TxCpltCallback:
  3638              	.LVL268:
  3639              	.LFB145:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 141
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 141
 
 
 2028:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Prevent unused argument(s) compilation warning */
@@ -8458,7 +8458,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2064:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  3690              		.loc 1 2064 1 is_stmt 0 view .LVU1229
  3691 0000 7047     		bx	lr
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 142
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 142
 
 
  3692              		.cfi_endproc
@@ -8518,7 +8518,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3742              		.loc 1 2385 3 is_stmt 0 view .LVU1237
  3743 0004 FFF7FEFF 		bl	HAL_SPI_TxHalfCpltCallback
  3744              	.LVL275:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 143
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 143
 
 
 2386:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -8578,7 +8578,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3795 0002 806B     		ldr	r0, [r0, #56]
  3796              	.LVL279:
 2398:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 144
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 144
 
 
  3797              		.loc 1 2398 3 is_stmt 0 view .LVU1246
@@ -8638,7 +8638,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3848              	.LVL283:
 2411:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** }
  3849              		.loc 1 2411 3 view .LVU1254
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 145
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 145
 
 
  3850 0002 806B     		ldr	r0, [r0, #56]
@@ -8698,7 +8698,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3901              		.cfi_offset 14, -4
  3902 0002 82B0     		sub	sp, sp, #8
  3903              	.LCFI39:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 146
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 146
 
 
  3904              		.cfi_def_cfa_offset 16
@@ -8758,7 +8758,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3943 0032 03E0     		b	.L295
  3944              	.L302:
 3106:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       break;
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 147
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 147
 
 
  3945              		.loc 1 3106 7 is_stmt 1 view .LVU1277
@@ -8818,7 +8818,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  3985 0064 9B68     		ldr	r3, [r3, #8]
  3986 0066 0093     		str	r3, [sp]
 3124:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 148
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 148
 
 
  3987              		.loc 1 3124 5 view .LVU1292
@@ -8878,7 +8878,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4033              		.thumb
  4034              		.thumb_func
  4035              		.fpu fpv4-sp-d16
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 149
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 149
 
 
  4037              	SPI_TxISR_8BIT:
@@ -8938,7 +8938,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2868:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  4077              		.loc 1 2868 1 view .LVU1316
  4078 001c 08BD     		pop	{r3, pc}
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 150
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 150
 
 
  4079              	.LVL298:
@@ -8998,7 +8998,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4123              		.loc 1 2881 3 is_stmt 1 view .LVU1328
 2881:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  4124              		.loc 1 2881 7 is_stmt 0 view .LVU1329
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 151
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 151
 
 
  4125 0010 C38E     		ldrh	r3, [r0, #54]
@@ -9058,7 +9058,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 3047:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  4172              		.loc 1 3047 5 is_stmt 1 view .LVU1339
  4173 0004 0268     		ldr	r2, [r0]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 152
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 152
 
 
  4174 0006 5368     		ldr	r3, [r2, #4]
@@ -9118,7 +9118,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4212 0030 8BB9     		cbnz	r3, .L317
 3076:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       }
  4213              		.loc 1 3076 9 is_stmt 1 view .LVU1356
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 153
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 153
 
 
  4214 0032 FFF7FEFF 		bl	HAL_SPI_RxCpltCallback
@@ -9178,7 +9178,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4262              		.loc 1 2764 1 is_stmt 1 view -0
  4263              		.cfi_startproc
  4264              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 154
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 154
 
 
  4265              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -9238,7 +9238,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4304 001e FFF7FEFF 		bl	SPI_CloseRx_ISR
  4305              	.LVL311:
 2787:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 155
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 155
 
 
  4306              		.loc 1 2787 1 is_stmt 0 view .LVU1380
@@ -9298,7 +9298,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4350 0014 9BB2     		uxth	r3, r3
  4351 0016 C387     		strh	r3, [r0, #62]	@ movhi
 2833:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 156
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 156
 
 
  4352              		.loc 1 2833 3 is_stmt 1 view .LVU1393
@@ -9358,7 +9358,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2973:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Init tickstart for timeout managment*/
  4399              		.loc 1 2973 70 is_stmt 0 view .LVU1403
  4400 0006 274B     		ldr	r3, .L341
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 157
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 157
 
 
  4401 0008 1B68     		ldr	r3, [r3]
@@ -9418,7 +9418,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4441 003e 636D     		ldr	r3, [r4, #84]
  4442 0040 43F02003 		orr	r3, r3, #32
  4443 0044 6365     		str	r3, [r4, #84]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 158
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 158
 
 
 2986:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
@@ -9478,7 +9478,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4482              		.loc 1 3015 12 is_stmt 0 view .LVU1433
  4483 006a 636D     		ldr	r3, [r4, #84]
 3015:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 159
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 159
 
 
  4484              		.loc 1 3015 7 view .LVU1434
@@ -9538,7 +9538,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4526 0098 84F85130 		strb	r3, [r4, #81]
 3031:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
  4527              		.loc 1 3031 7 is_stmt 1 view .LVU1447
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 160
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 160
 
 
  4528 009c 2046     		mov	r0, r4
@@ -9598,7 +9598,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2619:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  4574              		.loc 1 2619 7 is_stmt 0 view .LVU1458
  4575 000e C38E     		ldrh	r3, [r0, #54]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 161
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 161
 
 
 2619:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -9658,7 +9658,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2556:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   /* Receive data in 8bit mode */
  4621              		.loc 1 2556 1 is_stmt 1 view -0
  4622              		.cfi_startproc
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 162
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 162
 
 
  4623              		@ args = 0, pretend = 0, frame = 0
@@ -9718,7 +9718,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2575:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
  4662              		.loc 1 2575 12 is_stmt 0 view .LVU1486
  4663 0026 C38E     		ldrh	r3, [r0, #54]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 163
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 163
 
 
  4664 0028 9BB2     		uxth	r3, r3
@@ -9778,7 +9778,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4709 0008 DA60     		str	r2, [r3, #12]
 2711:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxXferCount--;
  4710              		.loc 1 2711 3 is_stmt 1 view .LVU1498
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 164
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 164
 
 
 2711:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->TxXferCount--;
@@ -9838,7 +9838,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4751              	.LFE168:
  4753              		.section	.text.SPI_2linesRxISR_16BIT,"ax",%progbits
  4754              		.align	1
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 165
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 165
 
 
  4755              		.syntax unified
@@ -9898,7 +9898,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4796 0018 C38F     		ldrh	r3, [r0, #62]
  4797 001a 9BB2     		uxth	r3, r3
 2656:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 166
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 166
 
 
  4798              		.loc 1 2656 5 view .LVU1527
@@ -9958,7 +9958,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2422:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  4845              		.loc 1 2422 3 is_stmt 1 view .LVU1537
 2422:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 167
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 167
 
 
  4846              		.loc 1 2422 22 is_stmt 0 view .LVU1538
@@ -10018,7 +10018,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4894 0004 0546     		mov	r5, r0
 2208:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   uint32_t tickstart = 0U;
  4895              		.loc 1 2208 3 is_stmt 1 view .LVU1547
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 168
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 168
 
 
 2208:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   uint32_t tickstart = 0U;
@@ -10078,7 +10078,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4934              		.loc 1 2227 18 is_stmt 0 view .LVU1563
  4935 0034 A368     		ldr	r3, [r4, #8]
 2227:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 169
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 169
 
 
  4936              		.loc 1 2227 7 view .LVU1564
@@ -10138,7 +10138,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  4976              		.cfi_def_cfa_offset 12
  4977              		@ sp needed
  4978 005c 30BD     		pop	{r4, r5, pc}
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 170
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 170
 
 
  4979              	.LVL351:
@@ -10198,7 +10198,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5024              		.loc 1 2281 5 is_stmt 1 view .LVU1589
  5025 000e 1968     		ldr	r1, [r3]
  5026 0010 4A68     		ldr	r2, [r1, #4]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 171
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 171
 
 
  5027 0012 22F00302 		bic	r2, r2, #3
@@ -10258,7 +10258,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2284:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     {
  5066              		.loc 1 2284 92 discriminator 2 view .LVU1605
  5067 003e B2F5806F 		cmp	r2, #1024
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 172
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 172
 
 
  5068 0042 EDD1     		bne	.L370
@@ -10318,7 +10318,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5115              		.loc 1 2320 3 is_stmt 1 view .LVU1614
 2325:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  5116              		.loc 1 2325 3 view .LVU1615
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 173
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 173
 
 
 2325:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
@@ -10378,7 +10378,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2355:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  5156              		.loc 1 2355 5 is_stmt 1 view .LVU1631
 2355:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 174
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 174
 
 
  5157              		.loc 1 2355 17 is_stmt 0 view .LVU1632
@@ -10438,7 +10438,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5204              		.cfi_offset 14, -4
  5205 0002 84B0     		sub	sp, sp, #16
  5206              	.LCFI66:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 175
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 175
 
 
  5207              		.cfi_def_cfa_offset 24
@@ -10498,7 +10498,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5245 0030 0FD0     		beq	.L386
 1957:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       {
  5246              		.loc 1 1957 7 is_stmt 1 view .LVU1658
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 176
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 176
 
 
 1957:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****       {
@@ -10558,7 +10558,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5286              		.loc 1 1973 7 view .LVU1673
  5287 0064 9068     		ldr	r0, [r2, #8]
  5288 0066 0290     		str	r0, [sp, #8]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 177
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 177
 
 
 1973:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
@@ -10618,7 +10618,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5327              		.loc 1 1986 7 is_stmt 1 view .LVU1689
  5328 0090 2268     		ldr	r2, [r4]
  5329 0092 5368     		ldr	r3, [r2, #4]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 178
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 178
 
 
  5330 0094 23F0E003 		bic	r3, r3, #224
@@ -10678,7 +10678,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2008:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         }
  5368              		.loc 1 2008 11 is_stmt 1 view .LVU1706
  5369 00c6 A06C     		ldr	r0, [r4, #72]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 179
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 179
 
 
  5370 00c8 FFF7FEFF 		bl	HAL_DMA_Abort_IT
@@ -10738,7 +10738,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1964:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****         return;
  5413              		.loc 1 1964 9 view .LVU1718
  5414 00e6 0023     		movs	r3, #0
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 180
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 180
 
 
  5415              	.LVL382:
@@ -10798,7 +10798,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5462              		.cfi_offset 14, -4
 2440:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount = 0U;
  5463              		.loc 1 2440 3 is_stmt 1 view .LVU1728
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 181
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 181
 
 
 2440:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   hspi->RxXferCount = 0U;
@@ -10858,7 +10858,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5512              	HAL_SPI_Abort_IT:
  5513              	.LVL388:
  5514              	.LFB140:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 182
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 182
 
 
 1715:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   uint32_t abortcplt;
@@ -10918,7 +10918,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5555 0020 5A68     		ldr	r2, [r3, #4]
  5556 0022 22F02002 		bic	r2, r2, #32
  5557 0026 5A60     		str	r2, [r3, #4]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 183
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 183
 
 
 1732:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   
@@ -10978,7 +10978,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5594              		.loc 1 1766 3 is_stmt 1 view .LVU1770
 1766:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
  5595              		.loc 1 1766 7 is_stmt 0 view .LVU1771
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 184
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 184
 
 
  5596 004c 2368     		ldr	r3, [r4]
@@ -11038,7 +11038,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 1761:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
  5635              		.loc 1 1761 7 is_stmt 1 view .LVU1787
 1761:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****     }
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 185
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 185
 
 
  5636              		.loc 1 1761 39 is_stmt 0 view .LVU1788
@@ -11098,7 +11098,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5676              	.LVL398:
  5677              	.L408:
 1798:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 186
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 186
 
 
  5678              		.loc 1 1798 3 is_stmt 1 view .LVU1803
@@ -11158,7 +11158,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5717              		.loc 1 1810 19 view .LVU1818
  5718 00be 0025     		movs	r5, #0
  5719              	.LVL404:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 187
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 187
 
 
  5720              	.L410:
@@ -11218,7 +11218,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5758 00e0 30BD     		pop	{r4, r5, pc}
  5759              	.LVL406:
  5760              	.L420:
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 188
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 188
 
 
  5761              	.LCFI73:
@@ -11278,7 +11278,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5798              		.loc 1 1846 17 is_stmt 0 view .LVU1851
  5799 0100 0123     		movs	r3, #1
  5800 0102 84F85130 		strb	r3, [r4, #81]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 189
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 189
 
 
 1849:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   }
@@ -11338,7 +11338,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5848 0016 23F00103 		bic	r3, r3, #1
  5849 001a 5360     		str	r3, [r2, #4]
 2523:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   {
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 190
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 190
 
 
  5850              		.loc 1 2523 3 view .LVU1861
@@ -11398,7 +11398,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5888              		.loc 1 2539 3 view .LVU1877
  5889 003a 9168     		ldr	r1, [r2, #8]
  5890 003c 0091     		str	r1, [sp]
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 191
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 191
 
 
 2539:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c ****   __HAL_SPI_CLEAR_FREFLAG(hspi);  
@@ -11458,7 +11458,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5936              	.LCFI77:
  5937              		.cfi_def_cfa_offset 4
  5938              		.cfi_offset 14, -4
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 192
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 192
 
 
  5939 0002 83B0     		sub	sp, sp, #12
@@ -11518,7 +11518,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  5978              		.loc 1 2474 14 view .LVU1903
  5979 0032 0368     		ldr	r3, [r0]
 2474:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 193
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 193
 
 
  5980              		.loc 1 2474 24 view .LVU1904
@@ -11578,7 +11578,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  6017 0056 0093     		str	r3, [sp]
 2493:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  6018              		.loc 1 2493 3 view .LVU1922
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 194
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 194
 
 
  6019 0058 0368     		ldr	r3, [r0]
@@ -11638,7 +11638,7 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
 2173:Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c **** 
  6067              		.loc 1 2173 1 view .LVU1931
  6068 0004 7047     		bx	lr
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 195
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 195
 
 
  6069              		.cfi_endproc
@@ -11686,138 +11686,138 @@ ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 1
  6110              		.file 13 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h"
  6111              		.file 14 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h"
  6112              		.file 15 "Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h"
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 196
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 196
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32f4xx_hal_spi.c
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:18     .text.SPI_AbortRx_ISR:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:25     .text.SPI_AbortRx_ISR:0000000000000000 SPI_AbortRx_ISR
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:106    .text.SPI_AbortRx_ISR:0000000000000058 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:112    .text.SPI_AbortTx_ISR:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:118    .text.SPI_AbortTx_ISR:0000000000000000 SPI_AbortTx_ISR
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:142    .text.SPI_WaitFlagStateUntilTimeout:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:148    .text.SPI_WaitFlagStateUntilTimeout:0000000000000000 SPI_WaitFlagStateUntilTimeout
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:281    .text.SPI_CheckFlag_BSY:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:287    .text.SPI_CheckFlag_BSY:0000000000000000 SPI_CheckFlag_BSY
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:344    .text.HAL_SPI_MspInit:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:351    .text.HAL_SPI_MspInit:0000000000000000 HAL_SPI_MspInit
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:366    .text.HAL_SPI_Init:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:373    .text.HAL_SPI_Init:0000000000000000 HAL_SPI_Init
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:492    .text.HAL_SPI_MspDeInit:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:499    .text.HAL_SPI_MspDeInit:0000000000000000 HAL_SPI_MspDeInit
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:514    .text.HAL_SPI_DeInit:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:521    .text.HAL_SPI_DeInit:0000000000000000 HAL_SPI_DeInit
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:579    .text.HAL_SPI_Transmit:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:586    .text.HAL_SPI_Transmit:0000000000000000 HAL_SPI_Transmit
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:990    .text.HAL_SPI_TransmitReceive:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:997    .text.HAL_SPI_TransmitReceive:0000000000000000 HAL_SPI_TransmitReceive
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:1542   .text.HAL_SPI_Receive:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:1549   .text.HAL_SPI_Receive:0000000000000000 HAL_SPI_Receive
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:1895   .text.HAL_SPI_Transmit_IT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:1902   .text.HAL_SPI_Transmit_IT:0000000000000000 HAL_SPI_Transmit_IT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2073   .text.HAL_SPI_Transmit_IT:00000000000000a8 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4096   .text.SPI_TxISR_16BIT:0000000000000000 SPI_TxISR_16BIT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4037   .text.SPI_TxISR_8BIT:0000000000000000 SPI_TxISR_8BIT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2079   .text.HAL_SPI_TransmitReceive_IT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2086   .text.HAL_SPI_TransmitReceive_IT:0000000000000000 HAL_SPI_TransmitReceive_IT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2312   .text.HAL_SPI_TransmitReceive_IT:00000000000000bc $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4760   .text.SPI_2linesRxISR_16BIT:0000000000000000 SPI_2linesRxISR_16BIT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4688   .text.SPI_2linesTxISR_16BIT:0000000000000000 SPI_2linesTxISR_16BIT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4618   .text.SPI_2linesRxISR_8BIT:0000000000000000 SPI_2linesRxISR_8BIT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4548   .text.SPI_2linesTxISR_8BIT:0000000000000000 SPI_2linesTxISR_8BIT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2320   .text.HAL_SPI_Receive_IT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2327   .text.HAL_SPI_Receive_IT:0000000000000000 HAL_SPI_Receive_IT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2518   .text.HAL_SPI_Receive_IT:00000000000000b4 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4318   .text.SPI_RxISR_16BIT:0000000000000000 SPI_RxISR_16BIT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4259   .text.SPI_RxISR_8BIT:0000000000000000 SPI_RxISR_8BIT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2524   .text.HAL_SPI_Transmit_DMA:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2531   .text.HAL_SPI_Transmit_DMA:0000000000000000 HAL_SPI_Transmit_DMA
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2727   .text.HAL_SPI_Transmit_DMA:00000000000000b8 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3724   .text.SPI_DMAHalfTransmitCplt:0000000000000000 SPI_DMAHalfTransmitCplt
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4877   .text.SPI_DMATransmitCplt:0000000000000000 SPI_DMATransmitCplt
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4832   .text.SPI_DMAError:0000000000000000 SPI_DMAError
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2734   .text.HAL_SPI_TransmitReceive_DMA:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:2741   .text.HAL_SPI_TransmitReceive_DMA:0000000000000000 HAL_SPI_TransmitReceive_DMA
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3041   .text.HAL_SPI_TransmitReceive_DMA:0000000000000114 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3834   .text.SPI_DMAHalfTransmitReceiveCplt:0000000000000000 SPI_DMAHalfTransmitReceiveCplt
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5095   .text.SPI_DMATransmitReceiveCplt:0000000000000000 SPI_DMATransmitReceiveCplt
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3779   .text.SPI_DMAHalfReceiveCplt:0000000000000000 SPI_DMAHalfReceiveCplt
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4999   .text.SPI_DMAReceiveCplt:0000000000000000 SPI_DMAReceiveCplt
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3050   .text.HAL_SPI_Receive_DMA:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3057   .text.HAL_SPI_Receive_DMA:0000000000000000 HAL_SPI_Receive_DMA
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 197
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:18     .text.SPI_AbortRx_ISR:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:25     .text.SPI_AbortRx_ISR:0000000000000000 SPI_AbortRx_ISR
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:106    .text.SPI_AbortRx_ISR:0000000000000058 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:112    .text.SPI_AbortTx_ISR:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:118    .text.SPI_AbortTx_ISR:0000000000000000 SPI_AbortTx_ISR
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:142    .text.SPI_WaitFlagStateUntilTimeout:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:148    .text.SPI_WaitFlagStateUntilTimeout:0000000000000000 SPI_WaitFlagStateUntilTimeout
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:281    .text.SPI_CheckFlag_BSY:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:287    .text.SPI_CheckFlag_BSY:0000000000000000 SPI_CheckFlag_BSY
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:344    .text.HAL_SPI_MspInit:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:351    .text.HAL_SPI_MspInit:0000000000000000 HAL_SPI_MspInit
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:366    .text.HAL_SPI_Init:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:373    .text.HAL_SPI_Init:0000000000000000 HAL_SPI_Init
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:492    .text.HAL_SPI_MspDeInit:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:499    .text.HAL_SPI_MspDeInit:0000000000000000 HAL_SPI_MspDeInit
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:514    .text.HAL_SPI_DeInit:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:521    .text.HAL_SPI_DeInit:0000000000000000 HAL_SPI_DeInit
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:579    .text.HAL_SPI_Transmit:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:586    .text.HAL_SPI_Transmit:0000000000000000 HAL_SPI_Transmit
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:990    .text.HAL_SPI_TransmitReceive:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:997    .text.HAL_SPI_TransmitReceive:0000000000000000 HAL_SPI_TransmitReceive
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:1542   .text.HAL_SPI_Receive:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:1549   .text.HAL_SPI_Receive:0000000000000000 HAL_SPI_Receive
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:1895   .text.HAL_SPI_Transmit_IT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:1902   .text.HAL_SPI_Transmit_IT:0000000000000000 HAL_SPI_Transmit_IT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2073   .text.HAL_SPI_Transmit_IT:00000000000000a8 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4096   .text.SPI_TxISR_16BIT:0000000000000000 SPI_TxISR_16BIT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4037   .text.SPI_TxISR_8BIT:0000000000000000 SPI_TxISR_8BIT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2079   .text.HAL_SPI_TransmitReceive_IT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2086   .text.HAL_SPI_TransmitReceive_IT:0000000000000000 HAL_SPI_TransmitReceive_IT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2312   .text.HAL_SPI_TransmitReceive_IT:00000000000000bc $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4760   .text.SPI_2linesRxISR_16BIT:0000000000000000 SPI_2linesRxISR_16BIT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4688   .text.SPI_2linesTxISR_16BIT:0000000000000000 SPI_2linesTxISR_16BIT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4618   .text.SPI_2linesRxISR_8BIT:0000000000000000 SPI_2linesRxISR_8BIT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4548   .text.SPI_2linesTxISR_8BIT:0000000000000000 SPI_2linesTxISR_8BIT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2320   .text.HAL_SPI_Receive_IT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2327   .text.HAL_SPI_Receive_IT:0000000000000000 HAL_SPI_Receive_IT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2518   .text.HAL_SPI_Receive_IT:00000000000000b4 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4318   .text.SPI_RxISR_16BIT:0000000000000000 SPI_RxISR_16BIT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4259   .text.SPI_RxISR_8BIT:0000000000000000 SPI_RxISR_8BIT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2524   .text.HAL_SPI_Transmit_DMA:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2531   .text.HAL_SPI_Transmit_DMA:0000000000000000 HAL_SPI_Transmit_DMA
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2727   .text.HAL_SPI_Transmit_DMA:00000000000000b8 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3724   .text.SPI_DMAHalfTransmitCplt:0000000000000000 SPI_DMAHalfTransmitCplt
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4877   .text.SPI_DMATransmitCplt:0000000000000000 SPI_DMATransmitCplt
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4832   .text.SPI_DMAError:0000000000000000 SPI_DMAError
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2734   .text.HAL_SPI_TransmitReceive_DMA:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:2741   .text.HAL_SPI_TransmitReceive_DMA:0000000000000000 HAL_SPI_TransmitReceive_DMA
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3041   .text.HAL_SPI_TransmitReceive_DMA:0000000000000114 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3834   .text.SPI_DMAHalfTransmitReceiveCplt:0000000000000000 SPI_DMAHalfTransmitReceiveCplt
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5095   .text.SPI_DMATransmitReceiveCplt:0000000000000000 SPI_DMATransmitReceiveCplt
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3779   .text.SPI_DMAHalfReceiveCplt:0000000000000000 SPI_DMAHalfReceiveCplt
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4999   .text.SPI_DMAReceiveCplt:0000000000000000 SPI_DMAReceiveCplt
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3050   .text.HAL_SPI_Receive_DMA:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3057   .text.HAL_SPI_Receive_DMA:0000000000000000 HAL_SPI_Receive_DMA
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 197
 
 
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3265   .text.HAL_SPI_Receive_DMA:00000000000000d0 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3272   .text.HAL_SPI_Abort:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3279   .text.HAL_SPI_Abort:0000000000000000 HAL_SPI_Abort
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3466   .text.HAL_SPI_Abort:00000000000000cc $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3474   .text.HAL_SPI_DMAPause:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3481   .text.HAL_SPI_DMAPause:0000000000000000 HAL_SPI_DMAPause
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3523   .text.HAL_SPI_DMAResume:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3530   .text.HAL_SPI_DMAResume:0000000000000000 HAL_SPI_DMAResume
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3572   .text.HAL_SPI_DMAStop:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3579   .text.HAL_SPI_DMAStop:0000000000000000 HAL_SPI_DMAStop
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3630   .text.HAL_SPI_TxCpltCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3637   .text.HAL_SPI_TxCpltCallback:0000000000000000 HAL_SPI_TxCpltCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3652   .text.HAL_SPI_RxCpltCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3659   .text.HAL_SPI_RxCpltCallback:0000000000000000 HAL_SPI_RxCpltCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3674   .text.HAL_SPI_TxRxCpltCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3681   .text.HAL_SPI_TxRxCpltCallback:0000000000000000 HAL_SPI_TxRxCpltCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3696   .text.HAL_SPI_TxHalfCpltCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3703   .text.HAL_SPI_TxHalfCpltCallback:0000000000000000 HAL_SPI_TxHalfCpltCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3718   .text.SPI_DMAHalfTransmitCplt:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3751   .text.HAL_SPI_RxHalfCpltCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3758   .text.HAL_SPI_RxHalfCpltCallback:0000000000000000 HAL_SPI_RxHalfCpltCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3773   .text.SPI_DMAHalfReceiveCplt:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3806   .text.HAL_SPI_TxRxHalfCpltCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3813   .text.HAL_SPI_TxRxHalfCpltCallback:0000000000000000 HAL_SPI_TxRxHalfCpltCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3828   .text.SPI_DMAHalfTransmitReceiveCplt:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3861   .text.HAL_SPI_ErrorCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3868   .text.HAL_SPI_ErrorCallback:0000000000000000 HAL_SPI_ErrorCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3883   .text.SPI_CloseTx_ISR:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:3889   .text.SPI_CloseTx_ISR:0000000000000000 SPI_CloseTx_ISR
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4025   .text.SPI_CloseTx_ISR:0000000000000088 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4031   .text.SPI_TxISR_8BIT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4090   .text.SPI_TxISR_16BIT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4151   .text.SPI_CloseRx_ISR:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4157   .text.SPI_CloseRx_ISR:0000000000000000 SPI_CloseRx_ISR
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4253   .text.SPI_RxISR_8BIT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4312   .text.SPI_RxISR_16BIT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4373   .text.SPI_CloseRxTx_ISR:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4379   .text.SPI_CloseRxTx_ISR:0000000000000000 SPI_CloseRxTx_ISR
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4536   .text.SPI_CloseRxTx_ISR:00000000000000a4 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4542   .text.SPI_2linesTxISR_8BIT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4612   .text.SPI_2linesRxISR_8BIT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4682   .text.SPI_2linesTxISR_16BIT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4754   .text.SPI_2linesRxISR_16BIT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4826   .text.SPI_DMAError:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4871   .text.SPI_DMATransmitCplt:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:4993   .text.SPI_DMAReceiveCplt:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5089   .text.SPI_DMATransmitReceiveCplt:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5185   .text.HAL_SPI_IRQHandler:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5192   .text.HAL_SPI_IRQHandler:0000000000000000 HAL_SPI_IRQHandler
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5439   .text.HAL_SPI_IRQHandler:0000000000000100 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5450   .text.SPI_DMAAbortOnError:0000000000000000 SPI_DMAAbortOnError
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5444   .text.SPI_DMAAbortOnError:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5483   .text.HAL_SPI_AbortCpltCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5490   .text.HAL_SPI_AbortCpltCallback:0000000000000000 HAL_SPI_AbortCpltCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5505   .text.HAL_SPI_Abort_IT:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5512   .text.HAL_SPI_Abort_IT:0000000000000000 HAL_SPI_Abort_IT
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5809   .text.HAL_SPI_Abort_IT:0000000000000110 $d
-ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s 			page 198
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3265   .text.HAL_SPI_Receive_DMA:00000000000000d0 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3272   .text.HAL_SPI_Abort:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3279   .text.HAL_SPI_Abort:0000000000000000 HAL_SPI_Abort
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3466   .text.HAL_SPI_Abort:00000000000000cc $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3474   .text.HAL_SPI_DMAPause:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3481   .text.HAL_SPI_DMAPause:0000000000000000 HAL_SPI_DMAPause
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3523   .text.HAL_SPI_DMAResume:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3530   .text.HAL_SPI_DMAResume:0000000000000000 HAL_SPI_DMAResume
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3572   .text.HAL_SPI_DMAStop:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3579   .text.HAL_SPI_DMAStop:0000000000000000 HAL_SPI_DMAStop
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3630   .text.HAL_SPI_TxCpltCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3637   .text.HAL_SPI_TxCpltCallback:0000000000000000 HAL_SPI_TxCpltCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3652   .text.HAL_SPI_RxCpltCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3659   .text.HAL_SPI_RxCpltCallback:0000000000000000 HAL_SPI_RxCpltCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3674   .text.HAL_SPI_TxRxCpltCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3681   .text.HAL_SPI_TxRxCpltCallback:0000000000000000 HAL_SPI_TxRxCpltCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3696   .text.HAL_SPI_TxHalfCpltCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3703   .text.HAL_SPI_TxHalfCpltCallback:0000000000000000 HAL_SPI_TxHalfCpltCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3718   .text.SPI_DMAHalfTransmitCplt:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3751   .text.HAL_SPI_RxHalfCpltCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3758   .text.HAL_SPI_RxHalfCpltCallback:0000000000000000 HAL_SPI_RxHalfCpltCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3773   .text.SPI_DMAHalfReceiveCplt:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3806   .text.HAL_SPI_TxRxHalfCpltCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3813   .text.HAL_SPI_TxRxHalfCpltCallback:0000000000000000 HAL_SPI_TxRxHalfCpltCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3828   .text.SPI_DMAHalfTransmitReceiveCplt:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3861   .text.HAL_SPI_ErrorCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3868   .text.HAL_SPI_ErrorCallback:0000000000000000 HAL_SPI_ErrorCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3883   .text.SPI_CloseTx_ISR:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:3889   .text.SPI_CloseTx_ISR:0000000000000000 SPI_CloseTx_ISR
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4025   .text.SPI_CloseTx_ISR:0000000000000088 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4031   .text.SPI_TxISR_8BIT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4090   .text.SPI_TxISR_16BIT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4151   .text.SPI_CloseRx_ISR:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4157   .text.SPI_CloseRx_ISR:0000000000000000 SPI_CloseRx_ISR
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4253   .text.SPI_RxISR_8BIT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4312   .text.SPI_RxISR_16BIT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4373   .text.SPI_CloseRxTx_ISR:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4379   .text.SPI_CloseRxTx_ISR:0000000000000000 SPI_CloseRxTx_ISR
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4536   .text.SPI_CloseRxTx_ISR:00000000000000a4 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4542   .text.SPI_2linesTxISR_8BIT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4612   .text.SPI_2linesRxISR_8BIT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4682   .text.SPI_2linesTxISR_16BIT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4754   .text.SPI_2linesRxISR_16BIT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4826   .text.SPI_DMAError:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4871   .text.SPI_DMATransmitCplt:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:4993   .text.SPI_DMAReceiveCplt:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5089   .text.SPI_DMATransmitReceiveCplt:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5185   .text.HAL_SPI_IRQHandler:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5192   .text.HAL_SPI_IRQHandler:0000000000000000 HAL_SPI_IRQHandler
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5439   .text.HAL_SPI_IRQHandler:0000000000000100 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5450   .text.SPI_DMAAbortOnError:0000000000000000 SPI_DMAAbortOnError
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5444   .text.SPI_DMAAbortOnError:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5483   .text.HAL_SPI_AbortCpltCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5490   .text.HAL_SPI_AbortCpltCallback:0000000000000000 HAL_SPI_AbortCpltCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5505   .text.HAL_SPI_Abort_IT:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5512   .text.HAL_SPI_Abort_IT:0000000000000000 HAL_SPI_Abort_IT
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5809   .text.HAL_SPI_Abort_IT:0000000000000110 $d
+ARM GAS  /var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s 			page 198
 
 
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5927   .text.SPI_DMATxAbortCallback:0000000000000000 SPI_DMATxAbortCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5823   .text.SPI_DMARxAbortCallback:0000000000000000 SPI_DMARxAbortCallback
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5817   .text.SPI_DMARxAbortCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:5921   .text.SPI_DMATxAbortCallback:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:6042   .text.SPI_DMATxAbortCallback:0000000000000070 $d
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:6048   .text.HAL_SPI_GetState:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:6055   .text.HAL_SPI_GetState:0000000000000000 HAL_SPI_GetState
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:6073   .text.HAL_SPI_GetError:0000000000000000 $t
-/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccFlwkSh.s:6080   .text.HAL_SPI_GetError:0000000000000000 HAL_SPI_GetError
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5927   .text.SPI_DMATxAbortCallback:0000000000000000 SPI_DMATxAbortCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5823   .text.SPI_DMARxAbortCallback:0000000000000000 SPI_DMARxAbortCallback
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5817   .text.SPI_DMARxAbortCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:5921   .text.SPI_DMATxAbortCallback:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:6042   .text.SPI_DMATxAbortCallback:0000000000000070 $d
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:6048   .text.HAL_SPI_GetState:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:6055   .text.HAL_SPI_GetState:0000000000000000 HAL_SPI_GetState
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:6073   .text.HAL_SPI_GetError:0000000000000000 $t
+/var/folders/n1/76bg37b13ls08p1dhb9rhvd40000gn/T//ccDMMXnj.s:6080   .text.HAL_SPI_GetError:0000000000000000 HAL_SPI_GetError
 
 UNDEFINED SYMBOLS
 SystemCoreClock
